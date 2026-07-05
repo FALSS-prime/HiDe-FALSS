@@ -1,0 +1,3191 @@
+[
+  {
+    "id": "0",
+    "question": "Is the flag red or white?\n(A) The color of the flag is white.\n(B) The color of the flag is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10033.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1648,
+        678,
+        29,
+        81
+      ]
+    ]
+  },
+  {
+    "id": "1",
+    "question": "What is the color of the plastic basin?\n(A) The color of the plastic basin is pink.\n(B) The color of the plastic basin is yellow.\n(C) The color of the plastic basin is blue.\n(D) The color of the plastic basin is white.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10052.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        2583,
+        1227,
+        94,
+        58
+      ]
+    ]
+  },
+  {
+    "id": "2",
+    "question": "What is the color of the van?\n(A) The color of the van is red.\n(B) The color of the van is silver.\n(C) The color of the van is black.\n(D) The color of the van is white.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10204.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        520,
+        1002,
+        64,
+        29
+      ]
+    ]
+  },
+  {
+    "id": "3",
+    "question": "Does the kid have curly hair or straight hair?\n(A) The kid has curly hair.\n(B) The kid has straight hair.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10225.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1403,
+        998,
+        65,
+        184
+      ]
+    ]
+  },
+  {
+    "id": "4",
+    "question": "What is the color of the fire hydrant?\n(A) The color of the fire hydrant is yellow.\n(B) The color of the fire hydrant is red.\n(C) The color of the fire hydrant is black.\n(D) The color of the fire hydrant is white.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10415.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        383,
+        1246,
+        22,
+        43
+      ]
+    ]
+  },
+  {
+    "id": "5",
+    "question": "What is the color of the paraglider?\n(A) The color of the paraglider is blue.\n(B) The color of the paraglider is white.\n(C) The color of the paraglider is pink.\n(D) The color of the paraglider is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10701.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1146,
+        785,
+        25,
+        27
+      ]
+    ]
+  },
+  {
+    "id": "6",
+    "question": "How many people are in the oil painting?\n(A) There are 2 people in the oil painting.\n(B) There are 1 person in the oil painting.\n(C) There are no person in the oil painting.\n(D) There are 4 people in the oil painting.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10720.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1448,
+        343,
+        76,
+        122
+      ]
+    ]
+  },
+  {
+    "id": "7",
+    "question": "Is the flag blue and yellow or red and yellow?\n(A) The color of the flag is blue and yellow.\n(B) The color of the flag is red and yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10885.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        317,
+        493,
+        40,
+        110
+      ]
+    ]
+  },
+  {
+    "id": "8",
+    "question": "What is the color of the SUV car?\n(A) The color of the SUV car is silver.\n(B) The color of the SUV car is black.\n(C) The color of the SUV car is red.\n(D) The color of the SUV car is blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10919.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1403,
+        723,
+        63,
+        32
+      ]
+    ]
+  },
+  {
+    "id": "9",
+    "question": "What kind of animal is in the poster?\n(A) The animal in the poster is a dove.\n(B) The animal in the poster is a cat.\n(C) The animal in the poster is a horse.\n(D) The animal in the poster is a dog.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10997.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        661,
+        880,
+        73,
+        150
+      ]
+    ]
+  },
+  {
+    "id": "10",
+    "question": "What is the color of the umbrella?\n(A) The color of the umbrella is blue.\n(B) The color of the umbrella is white.\n(C) The color of the umbrella is red.\n(D) The color of the umbrella is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_11290.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1973,
+        1232,
+        59,
+        37
+      ]
+    ]
+  },
+  {
+    "id": "11",
+    "question": "What is the color of the earring?\n(A) The color of the earring is blue.\n(B) The color of the earring is pink.\n(C) The color of the earring is silver.\n(D) The color of the earring is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_11370.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        980,
+        613,
+        12,
+        43
+      ]
+    ]
+  },
+  {
+    "id": "12",
+    "question": "What is the color of the watchband?\n(A) The color of the watchband is purple.\n(B) The color of the watchband is black.\n(C) The color of the watchband is blue.\n(D) The color of the watchband is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_11405.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1415,
+        1045,
+        39,
+        15
+      ]
+    ]
+  },
+  {
+    "id": "13",
+    "question": "What is the color of the woman's bikini?\n(A) The color of the woman's bikini is black.\n(B) The color of the woman's bikini is red.\n(C) The color of the woman's bikini is white.\n(D) The color of the woman's bikini is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_11528.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        170,
+        1318,
+        19,
+        32
+      ]
+    ]
+  },
+  {
+    "id": "14",
+    "question": "What is the color of the apples?\n(A) The color of the apples is green.\n(B) The color of the apples is red.\n(C) The color of the apples is dark red.\n(D) The color of the apples is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_1244.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1929,
+        811,
+        105,
+        52
+      ]
+    ]
+  },
+  {
+    "id": "15",
+    "question": "What is the color of the man's cap?\n(A) The color of the man's cap is black.\n(B) The color of the man's cap is white.\n(C) The color of the man's cap is green.\n(D) The color of the man's cap is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_13337.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        500,
+        1276,
+        19,
+        14
+      ]
+    ]
+  },
+  {
+    "id": "16",
+    "question": "What is the color of the clock?\n(A) The color of the clock is green.\n(B) The color of the clock is black.\n(C) The color of the clock is red.\n(D) The color of the clock is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_16306.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1372,
+        832,
+        44,
+        29
+      ]
+    ]
+  },
+  {
+    "id": "17",
+    "question": "What is the color of the messenger bag?\n(A) The color of the messenger bag is black.\n(B) The color of the messenger bag is brown.\n(C) The color of the messenger bag is red.\n(D) The color of the messenger bag is white.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_16825.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        182,
+        1295,
+        26,
+        69
+      ]
+    ]
+  },
+  {
+    "id": "18",
+    "question": "What is the color of the watch?\n(A) The color of the watch is white.\n(B) The color of the watch is black.\n(C) The color of the watch is silver.\n(D) The color of the watch is blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_16854.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        494,
+        891,
+        14,
+        30
+      ]
+    ]
+  },
+  {
+    "id": "19",
+    "question": "What is the color of the little girl's shirt?\n(A) The color of the little girl's shirt is pink.\n(B) The color of the little girl's shirt is white.\n(C) The color of the little girl's shirt is yellow.\n(D) The color of the little girl's shirt is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_17.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1682,
+        1175,
+        28,
+        31
+      ]
+    ]
+  },
+  {
+    "id": "20",
+    "question": "What is the color of the truck?\n(A) The color of the truck is yellow.\n(B) The color of the truck is white.\n(C) The color of the truck is silver.\n(D) The color of the truck is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_17108.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1045,
+        1043,
+        87,
+        116
+      ]
+    ]
+  },
+  {
+    "id": "21",
+    "question": "What is the color of the woman's dress?\n(A) The color of the woman's dress is black.\n(B) The color of the woman's dress is pink.\n(C) The color of the woman's dress is white.\n(D) The color of the woman's dress is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_19272.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1510,
+        1337,
+        26,
+        57
+      ]
+    ]
+  },
+  {
+    "id": "22",
+    "question": "What is the color of the luggage?\n(A) The color of the luggage is red.\n(B) The color of the luggage is yellow.\n(C) The color of the luggage is black.\n(D) The color of the luggage is green.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_19483.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        343,
+        779,
+        109,
+        212
+      ]
+    ]
+  },
+  {
+    "id": "23",
+    "question": "What is the breed of the dog?\n(A) The breed of the dog is golden retriever.\n(B) The breed of the dog is Dalmatian.\n(C) The breed of the dog is corgi.\n(D) The breed of the dog is Husky.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_20519.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        652,
+        1250,
+        63,
+        39
+      ]
+    ]
+  },
+  {
+    "id": "24",
+    "question": "What is the color of the motorcycle?\n(A) The color of the motorcycle is orange.\n(B) The color of the motorcycle is black.\n(C) The color of the motorcycle is white.\n(D) The color of the motorcycle is blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_23893.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        108,
+        805,
+        46,
+        58
+      ]
+    ]
+  },
+  {
+    "id": "25",
+    "question": "What is the color of the suitcase?\n(A) The color of the suitcase is brown.\n(B) The color of the suitcase is black.\n(C) The color of the suitcase is gray.\n(D) The color of the suitcase is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_24546.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1411,
+        1201,
+        41,
+        25
+      ]
+    ]
+  },
+  {
+    "id": "26",
+    "question": "What is the color of the helmet?\n(A) The color of the helmet is red.\n(B) The color of the helmet is white.\n(C) The color of the helmet is yellow.\n(D) The color of the helmet is blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_25212.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1776,
+        994,
+        8,
+        8
+      ]
+    ]
+  },
+  {
+    "id": "27",
+    "question": "What is the color of the flag?\n(A) The color of the flag is blue and yellow.\n(B) The color of the flag is green and white.\n(C) The color of the flag is blue and red.\n(D) The color of the flag is red and yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_25219.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1634,
+        1140,
+        27,
+        31
+      ]
+    ]
+  },
+  {
+    "id": "28",
+    "question": "What is the color of the cyclist's box?\n(A) The color of the cyclist's box is green.\n(B) The color of the cyclist's box is black.\n(C) The color of the cyclist's box is yellow.\n(D) The color of the cyclist's box is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_25835.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        344,
+        745,
+        32,
+        62
+      ]
+    ]
+  },
+  {
+    "id": "29",
+    "question": "What is the color of the flag?\n(A) The color of the flag is red.\n(B) The color of the flag is blue.\n(C) The color of the flag is yellow.\n(D) The color of the flag is white.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_26085.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        84,
+        793,
+        40,
+        46
+      ]
+    ]
+  },
+  {
+    "id": "30",
+    "question": "What is the color of the pink-haired woman's handbag?\n(A) The color of the pink-haired woman's handbag is white.\n(B) The color of the pink-haired woman's handbag is brown.\n(C) The color of the pink-haired woman's handbag is pink.\n(D) The color of the pink-haired woman's handbag is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_26968.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1160,
+        1055,
+        28,
+        74
+      ]
+    ]
+  },
+  {
+    "id": "31",
+    "question": "What is the color of the life buoy?\n(A) The color of the life buoy is red and white.\n(B) The color of the life buoy is blue and white.\n(C) The color of the life buoy is green and white.\n(D) The color of the life buoy is yellow and red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_27986.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        2055,
+        1038,
+        25,
+        23
+      ]
+    ]
+  },
+  {
+    "id": "32",
+    "question": "What is the color of the bicycle?\n(A) The color of the bicycle is yellow.\n(B) The color of the bicycle is red.\n(C) The color of the bicycle is white.\n(D) The color of the bicycle is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_28073.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1861,
+        953,
+        45,
+        30
+      ]
+    ]
+  },
+  {
+    "id": "33",
+    "question": "What is the color of the backpack?\n(A) The color of the backpack is gray.\n(B) The color of the backpack is yellow.\n(C) The color of the backpack is white.\n(D) The color of the backpack is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_28392.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        23,
+        1132,
+        37,
+        28
+      ]
+    ]
+  },
+  {
+    "id": "34",
+    "question": "What is the color of the trash can?\n(A) The color of the trash can is black.\n(B) The color of the trash can is green.\n(C) The color of the trash can is yellow.\n(D) The color of the trash can is silver.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_29509.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        2067,
+        1002,
+        10,
+        19
+      ]
+    ]
+  },
+  {
+    "id": "35",
+    "question": "What is the color of the plastic stool?\n(A) The color of the plastic stool is white.\n(B) The color of the plastic stool is blue.\n(C) The color of the plastic stool is red.\n(D) The color of the plastic stool is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_29744.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        495,
+        842,
+        24,
+        21
+      ]
+    ]
+  },
+  {
+    "id": "36",
+    "question": "What is the color of the telephone?\n(A) The color of the telephone is orange.\n(B) The color of the telephone is blue.\n(C) The color of the telephone is green.\n(D) The color of the telephone is white.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_30034.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        806,
+        1076,
+        25,
+        28
+      ]
+    ]
+  },
+  {
+    "id": "37",
+    "question": "What is the color of the bicycle?\n(A) The color of the bicycle is red.\n(B) The color of the bicycle is black.\n(C) The color of the bicycle is white.\n(D) The color of the bicycle is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_30179.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1348,
+        1353,
+        46,
+        41
+      ]
+    ]
+  },
+  {
+    "id": "38",
+    "question": "What is the color of the man's cap?\n(A) The color of the man's cap is white.\n(B) The color of the man's cap is blue.\n(C) The color of the man's cap is black.\n(D) The color of the man's cap is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_30411.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        23,
+        896,
+        15,
+        9
+      ]
+    ]
+  },
+  {
+    "id": "39",
+    "question": "What is the color of the scarf?\n(A) The color of the scarf is green.\n(B) The color of the scarf is white.\n(C) The color of the scarf is yellow.\n(D) The color of the scarf is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_30935.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1091,
+        741,
+        50,
+        25
+      ]
+    ]
+  },
+  {
+    "id": "40",
+    "question": "What is the color of the hat?\n(A) The color of the hat is white.\n(B) The color of the hat is black.\n(C) The color of the hat is pink.\n(D) The color of the hat is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_31451.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        888,
+        1363,
+        18,
+        12
+      ]
+    ]
+  },
+  {
+    "id": "41",
+    "question": "What is the color of the handbag?\n(A) The color of the handbag is yellow.\n(B) The color of the handbag is white.\n(C) The color of the handbag is red.\n(D) The color of the handbag is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_31511.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        2278,
+        1010,
+        18,
+        35
+      ]
+    ]
+  },
+  {
+    "id": "42",
+    "question": "What is the color of the Apple logo?\n(A) The color of the Apple logo is polychromatic.\n(B) The color of the Apple logo is white.\n(C) The color of the Apple logo is silver.\n(D) The color of the Apple logo is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_33492.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        172,
+        218,
+        19,
+        25
+      ]
+    ]
+  },
+  {
+    "id": "43",
+    "question": "What is the pose of the woman with yellow backpack?\n(A) The pose of the woman with yellow backpack is squatting.\n(B) The pose of the woman with yellow backpack is standing.\n(C) The pose of the woman with yellow backpack is walking.\n(D) The pose of the woman with yellow backpack is running.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_33579.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1353,
+        305,
+        100,
+        153
+      ]
+    ]
+  },
+  {
+    "id": "44",
+    "question": "What is the color of the bus?\n(A) The color of the bus is white.\n(B) The color of the bus is red.\n(C) The color of the bus is blue.\n(D) The color of the bus is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_34040.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        655,
+        1207,
+        119,
+        55
+      ]
+    ]
+  },
+  {
+    "id": "45",
+    "question": "What is the color of the cart?\n(A) The color of the cart is green.\n(B) The color of the cart is black.\n(C) The color of the cart is white.\n(D) The color of the cart is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_3568.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1544,
+        969,
+        127,
+        84
+      ]
+    ]
+  },
+  {
+    "id": "46",
+    "question": "What is the color of the scooter?\n(A) The color of the scooter is orange.\n(B) The color of the scooter is black.\n(C) The color of the scooter is green.\n(D) The color of the scooter is blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_35748.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1749,
+        895,
+        53,
+        49
+      ]
+    ]
+  },
+  {
+    "id": "47",
+    "question": "What is the cartoon character on the clock.\n(A) The cartoon character on the clock is Mickey Mouse.\n(B) The cartoon character on the clock is Bugs Bunny.\n(C) The cartoon character on the clock is SpongeBob.\n(D) The cartoon character on the clock is Donald Duck.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_37675.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        509,
+        419,
+        185,
+        165
+      ]
+    ]
+  },
+  {
+    "id": "48",
+    "question": "What is the color of the car?\n(A) The color of the car is black.\n(B) The color of the car is white.\n(C) The color of the car is silver.\n(D) The color of the car is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_38155.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        221,
+        737,
+        107,
+        40
+      ]
+    ]
+  },
+  {
+    "id": "49",
+    "question": "What is the color of the cyclist's bag?\n(A) The color of the cyclist's bag is orange and black.\n(B) The color of the cyclist's bag is white and red.\n(C) The color of the cyclist's bag is red and blue.\n(D) The color of the cyclist's bag is blue and gray.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_38195.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1550,
+        1112,
+        44,
+        70
+      ]
+    ]
+  },
+  {
+    "id": "50",
+    "question": "What is the color of the dog?\n(A) The color of the dog is black.\n(B) The color of the dog is brown.\n(C) The color of the dog is white.\n(D) The color of the dog is gray.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_38610.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1223,
+        643,
+        29,
+        18
+      ]
+    ]
+  },
+  {
+    "id": "51",
+    "question": "What is the color of the woman's handbag?\n(A) The color of the woman's handbag is brown.\n(B) The color of the woman's handbag is black.\n(C) The color of the woman's handbag is white.\n(D) The color of the woman's handbag is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_38669.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        3225,
+        925,
+        36,
+        84
+      ]
+    ]
+  },
+  {
+    "id": "52",
+    "question": "What is the color of the tissue box?\n(A) The color of the tissue box is blue.\n(B) The color of the tissue box is gray.\n(C) The color of the tissue box is black.\n(D) The color of the tissue box is white.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_39518.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1424,
+        740,
+        58,
+        37
+      ]
+    ]
+  },
+  {
+    "id": "53",
+    "question": "What is the color of the helmet?\n(A) The color of the helmet is green.\n(B) The color of the helmet is blue.\n(C) The color of the helmet is white.\n(D) The color of the helmet is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_39678.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        668,
+        822,
+        19,
+        19
+      ]
+    ]
+  },
+  {
+    "id": "54",
+    "question": "What is the color of the car?\n(A) The color of the car is silver.\n(B) The color of the car is black.\n(C) The color of the car is blue.\n(D) The color of the car is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_4020.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1315,
+        1216,
+        115,
+        68
+      ]
+    ]
+  },
+  {
+    "id": "55",
+    "question": "What is the color of the woman's scarf?\n(A) The color of the woman's scarf is red.\n(B) The color of the woman's scarf is white.\n(C) The color of the woman's scarf is green.\n(D) The color of the woman's scarf is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_40973.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1825,
+        685,
+        31,
+        27
+      ]
+    ]
+  },
+  {
+    "id": "56",
+    "question": "What is the color of the guard's glove?\n(A) The color of the guard's glove is white.\n(B) The color of the guard's glove is brown.\n(C) The color of the guard's glove is black.\n(D) The color of the guard's glove is blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_41908.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1967,
+        1225,
+        15,
+        20
+      ]
+    ]
+  },
+  {
+    "id": "57",
+    "question": "What is the color of the chair?\n(A) The color of the chair is yellow.\n(B) The color of the chair is black.\n(C) The color of the chair is white.\n(D) The color of the chair is green.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_4203.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        175,
+        473,
+        92,
+        76
+      ]
+    ]
+  },
+  {
+    "id": "58",
+    "question": "What is the color of the handbag?\n(A) The color of the handbag is white.\n(B) The color of the handbag is red.\n(C) The color of the handbag is black.\n(D) The color of the handbag is brown.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_42562.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1738,
+        944,
+        20,
+        49
+      ]
+    ]
+  },
+  {
+    "id": "59",
+    "question": "What is the color of the helmet?\n(A) The color of the helmet is white.\n(B) The color of the helmet is black.\n(C) The color of the helmet is red.\n(D) The color of the helmet is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_42585.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        926,
+        1285,
+        23,
+        29
+      ]
+    ]
+  },
+  {
+    "id": "60",
+    "question": "What is the color of the car?\n(A) The color of the car is white.\n(B) The color of the car is black.\n(C) The color of the car is silver.\n(D) The color of the car is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_43391.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        314,
+        920,
+        108,
+        50
+      ]
+    ]
+  },
+  {
+    "id": "61",
+    "question": "What is the color of the plastic stool?\n(A) The color of the plastic stool is blue.\n(B) The color of the plastic stool is white.\n(C) The color of the plastic stool is black.\n(D) The color of the plastic stool is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_44097.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        2029,
+        1196,
+        45,
+        45
+      ]
+    ]
+  },
+  {
+    "id": "62",
+    "question": "What is the color of the slippers?\n(A) The color of the slippers is blue.\n(B) The color of the slippers is red.\n(C) The color of the slippers is black.\n(D) The color of the slippers is pink.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_4460.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1137,
+        881,
+        88,
+        62
+      ]
+    ]
+  },
+  {
+    "id": "63",
+    "question": "Is the color of the motorcycle red or blue?\n(A) The color of the motorcycle is blue.\n(B) The color of the motorcycle is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_4658.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        0,
+        1007,
+        100,
+        91
+      ]
+    ]
+  },
+  {
+    "id": "64",
+    "question": "What is the material of the glove?\n(A) The material of the glove is rubber.\n(B) The material of the glove is cotton.\n(C) The material of the glove is leather.\n(D) The material of the glove is kevlar.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_4690.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        564,
+        142,
+        155,
+        157
+      ]
+    ]
+  },
+  {
+    "id": "65",
+    "question": "What kind of animal is on the blue sail?\n(A) The animal on the blue sail is a spider.\n(B) The animal on the blue sail is a bird.\n(C) The animal on the blue sail is a fish.\n(D) The animal on the blue sail is a dog.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_47397.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        846,
+        419,
+        73,
+        139
+      ]
+    ]
+  },
+  {
+    "id": "66",
+    "question": "What is the color of the flower?\n(A) The color of the flower is white.\n(B) The color of the flower is red.\n(C) The color of the flower is pink.\n(D) The color of the flower is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_4988.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1356,
+        1073,
+        70,
+        33
+      ]
+    ]
+  },
+  {
+    "id": "67",
+    "question": "What is the color of the cart?\n(A) The color of the cart is green.\n(B) The color of the cart is white.\n(C) The color of the cart is silver.\n(D) The color of the cart is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_50442.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        233,
+        747,
+        57,
+        64
+      ]
+    ]
+  },
+  {
+    "id": "68",
+    "question": "What is the color of the bucket?\n(A) The color of the bucket is white.\n(B) The color of the bucket is black.\n(C) The color of the bucket is green.\n(D) The color of the bucket is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_50451.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        543,
+        1032,
+        46,
+        44
+      ]
+    ]
+  },
+  {
+    "id": "69",
+    "question": "What is the color of the swim ring?\n(A) The color of the swim ring is orange.\n(B) The color of the swim ring is white.\n(C) The color of the swim ring is blue.\n(D) The color of the swim ring is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_51837.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        117,
+        723,
+        42,
+        44
+      ]
+    ]
+  },
+  {
+    "id": "70",
+    "question": "What is the color of the pet collar?\n(A) The color of the pet collar is purple.\n(B) The color of the pet collar is black.\n(C) The color of the pet collar is red.\n(D) The color of the pet collar is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_52155.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        719,
+        726,
+        21,
+        67
+      ]
+    ]
+  },
+  {
+    "id": "71",
+    "question": "Does the flag have two or three colors?\n(A) The flag has three colors.\n(B) The flag has two colors.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_5281.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1952,
+        1145,
+        64,
+        83
+      ]
+    ]
+  },
+  {
+    "id": "72",
+    "question": "What is the color of the man's cap?\n(A) The color of the man's cap is gray.\n(B) The color of the man's cap is red.\n(C) The color of the man's cap is green.\n(D) The color of the man's cap is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_5346.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1069,
+        980,
+        44,
+        18
+      ]
+    ]
+  },
+  {
+    "id": "73",
+    "question": "What is the color of the parachute?\n(A) The color of the parachute is yellow.\n(B) The color of the parachute is blue.\n(C) The color of the parachute is green.\n(D) The color of the parachute is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_5387.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1295,
+        80,
+        40,
+        53
+      ]
+    ]
+  },
+  {
+    "id": "74",
+    "question": "What is the color of the woman's shirt?\n(A) The color of the woman's shirt is purple.\n(B) The color of the woman's shirt is pink.\n(C) The color of the woman's shirt is blue.\n(D) The color of the woman's shirt is white.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_5413.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        416,
+        1171,
+        36,
+        45
+      ]
+    ]
+  },
+  {
+    "id": "75",
+    "question": "What is the color of the electric rickshaw?\n(A) The color of the electric rickshaw is yellow.\n(B) The color of the electric rickshaw is green.\n(C) The color of the electric rickshaw is black.\n(D) The color of the electric rickshaw is red.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_55332.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        223,
+        2057,
+        51,
+        45
+      ]
+    ]
+  },
+  {
+    "id": "76",
+    "question": "What is the color of the flute?\n(A) The color of the flute is black.\n(B) The color of the flute is white.\n(C) The color of the flute is silver.\n(D) The color of the flute is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_55722.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1507,
+        1146,
+        79,
+        42
+      ]
+    ]
+  },
+  {
+    "id": "77",
+    "question": "What is the color of the bag?\n(A) The color of the bag is purple.\n(B) The color of the bag is white.\n(C) The color of the bag is black.\n(D) The color of the bag is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_56573.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        674,
+        1014,
+        20,
+        39
+      ]
+    ]
+  },
+  {
+    "id": "78",
+    "question": "What is the color of the water bottle?\n(A) The color of the water bottle is red.\n(B) The color of the water bottle is blue.\n(C) The color of the water bottle is white.\n(D) The color of the water bottle is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_5674.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        43,
+        632,
+        26,
+        68
+      ]
+    ]
+  },
+  {
+    "id": "79",
+    "question": "What is the color of the tablecloth?\n(A) The color of the tablecloth is green.\n(B) The color of the tablecloth is white.\n(C) The color of the tablecloth is red.\n(D) The color of the tablecloth is blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_58805.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1872,
+        1287,
+        62,
+        49
+      ]
+    ]
+  },
+  {
+    "id": "80",
+    "question": "What is the color of the dress?\n(A) The color of the dress is red.\n(B) The color of the dress is pink.\n(C) The color of the dress is black.\n(D) The color of the dress is white.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_59482.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1766,
+        464,
+        29,
+        95
+      ]
+    ]
+  },
+  {
+    "id": "81",
+    "question": "What is the color of the dog?\n(A) The color of the dog is black and white.\n(B) The color of the dog is brown.\n(C) The color of the dog is gray.\n(D) The color of the dog is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_59664.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        292,
+        901,
+        26,
+        17
+      ]
+    ]
+  },
+  {
+    "id": "82",
+    "question": "What is the color of the umbrella?\n(A) The color of the umbrella is purple.\n(B) The color of the umbrella is red.\n(C) The color of the umbrella is black.\n(D) The color of the umbrella is blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_60786.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1103,
+        1370,
+        23,
+        21
+      ]
+    ]
+  },
+  {
+    "id": "83",
+    "question": "What is the color of the baby carriage?\n(A) The color of the baby carriage is black.\n(B) The color of the baby carriage is green.\n(C) The color of the baby carriage is red.\n(D) The color of the baby carriage is blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_63876.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        638,
+        992,
+        54,
+        51
+      ]
+    ]
+  },
+  {
+    "id": "84",
+    "question": "Is the color of the motorcycle orange or green?\n(A) The color of the motorcycle is orange.\n(B) The color of the motorcycle is green.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_6422.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        410,
+        740,
+        109,
+        101
+      ]
+    ]
+  },
+  {
+    "id": "85",
+    "question": "What is the color of the umbrella?\n(A) The color of the umbrella is purple.\n(B) The color of the umbrella is black.\n(C) The color of the umbrella is red.\n(D) The color of the umbrella is blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_64897.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        308,
+        792,
+        36,
+        28
+      ]
+    ]
+  },
+  {
+    "id": "86",
+    "question": "What is the color of the shovel?\n(A) The color of the shovel is blue.\n(B) The color of the shovel is black.\n(C) The color of the shovel is red.\n(D) The color of the shovel is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_65370.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        877,
+        1234,
+        10,
+        25
+      ]
+    ]
+  },
+  {
+    "id": "87",
+    "question": "What is the color of the toothbrush?\n(A) The color of the toothbrush is red.\n(B) The color of the toothbrush is green.\n(C) The color of the toothbrush is yellow.\n(D) The color of the toothbrush is blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_65476.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        270,
+        629,
+        50,
+        8
+      ]
+    ]
+  },
+  {
+    "id": "88",
+    "question": "What is the color of the bottle cap?\n(A) The color of the bottle cap is red.\n(B) The color of the bottle cap is blue.\n(C) The color of the bottle cap is white.\n(D) The color of the bottle cap is orange.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_66471.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1037,
+        757,
+        12,
+        11
+      ]
+    ]
+  },
+  {
+    "id": "89",
+    "question": "What is the color of the soda can?\n(A) The color of the soda can is green.\n(B) The color of the soda can is silver.\n(C) The color of the soda can is red.\n(D) The color of the soda can is white.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_66657.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        117,
+        1234,
+        8,
+        12
+      ]
+    ]
+  },
+  {
+    "id": "90",
+    "question": "What is the color of the motorcycle?\n(A) The color of the motorcycle is black.\n(B) The color of the motorcycle is red.\n(C) The color of the motorcycle is orange.\n(D) The color of the motorcycle is white.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_66699.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1826,
+        1251,
+        48,
+        41
+      ]
+    ]
+  },
+  {
+    "id": "91",
+    "question": "What is the color of the straw?\n(A) The color of the straw is black.\n(B) The color of the straw is white.\n(C) The color of the straw is red.\n(D) The color of the straw is pink.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_68625.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1744,
+        920,
+        15,
+        48
+      ]
+    ]
+  },
+  {
+    "id": "92",
+    "question": "What is the color of the man's cap?\n(A) The color of the man's cap is red.\n(B) The color of the man's cap is blue.\n(C) The color of the man's cap is white.\n(D) The color of the man's cap is gray.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_6965.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        939,
+        1014,
+        19,
+        11
+      ]
+    ]
+  },
+  {
+    "id": "93",
+    "question": "What is the color of the lock?\n(A) The color of the lock is silver.\n(B) The color of the lock is red.\n(C) The color of the lock is yellow.\n(D) The color of the lock is golden.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_70112.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        587,
+        1305,
+        68,
+        56
+      ]
+    ]
+  },
+  {
+    "id": "94",
+    "question": "What is the color of the woman's jacket?\n(A) The color of the woman's jacket is blue.\n(B) The color of the woman's jacket is black.\n(C) The color of the woman's jacket is red.\n(D) The color of the woman's jacket is orange.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_7018.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        583,
+        1762,
+        28,
+        42
+      ]
+    ]
+  },
+  {
+    "id": "95",
+    "question": "Is the color of the bus red or yellow?\n(A) The color of the bus is red.\n(B) The color of the bus is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_7065.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1150,
+        896,
+        101,
+        53
+      ]
+    ]
+  },
+  {
+    "id": "96",
+    "question": "What is the color of the trash can?\n(A) The color of the trash can is green.\n(B) The color of the trash can is black.\n(C) The color of the trash can is red.\n(D) The color of the trash can is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_7081.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1088,
+        1018,
+        51,
+        66
+      ]
+    ]
+  },
+  {
+    "id": "97",
+    "question": "What is the color of the dog?\n(A) The color of the dog is white.\n(B) The color of the dog is brown.\n(C) The color of the dog is black.\n(D) The color of the dog is golden.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_717.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        615,
+        634,
+        61,
+        58
+      ]
+    ]
+  },
+  {
+    "id": "98",
+    "question": "What is the color of the cleaning cloth?\n(A) The color of the cleaning cloth is red.\n(B) The color of the cleaning cloth is blue.\n(C) The color of the cleaning cloth is white.\n(D) The color of the cleaning cloth is green.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_7347.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        518,
+        897,
+        108,
+        111
+      ]
+    ]
+  },
+  {
+    "id": "99",
+    "question": "What is the color of the man's helmet?\n(A) The color of the man's helmet is yellow.\n(B) The color of the man's helmet is white.\n(C) The color of the man's helmet is red.\n(D) The color of the man's helmet is blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_7428.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1332,
+        636,
+        21,
+        16
+      ]
+    ]
+  },
+  {
+    "id": "100",
+    "question": "What is the color of the comb?\n(A) The color of the comb is purple.\n(B) The color of the comb is black.\n(C) The color of the comb is red.\n(D) The color of the comb is brown.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_7429.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        909,
+        416,
+        178,
+        55
+      ]
+    ]
+  },
+  {
+    "id": "101",
+    "question": "What is the color of the bottle cap?\n(A) The color of the bottle cap is blue.\n(B) The color of the bottle cap is white.\n(C) The color of the bottle cap is red.\n(D) The color of the bottle cap is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_7609.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1348,
+        789,
+        22,
+        17
+      ]
+    ]
+  },
+  {
+    "id": "102",
+    "question": "What is the color of the tent?\n(A) The color of the tent is green.\n(B) The color of the tent is blue.\n(C) The color of the tent is white.\n(D) The color of the tent is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_7668.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1958,
+        405,
+        97,
+        58
+      ]
+    ]
+  },
+  {
+    "id": "103",
+    "question": "What is the color of the bench?\n(A) The color of the bench is green.\n(B) The color of the bench is red.\n(C) The color of the bench is gray.\n(D) The color of the bench is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_7683.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1809,
+        1219,
+        176,
+        63
+      ]
+    ]
+  },
+  {
+    "id": "104",
+    "question": "What is the color of the seesaw?\n(A) The color of the seesaw is red.\n(B) The color of the seesaw is white.\n(C) The color of the seesaw is yellow.\n(D) The color of the seesaw is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_79105.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        566,
+        854,
+        246,
+        78
+      ]
+    ]
+  },
+  {
+    "id": "105",
+    "question": "What is the color of the motorcycle helmet?\n(A) The color of the motorcycle helmet is white.\n(B) The color of the motorcycle helmet is red.\n(C) The color of the motorcycle helmet is blue.\n(D) The color of the motorcycle helmet is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_80352.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        304,
+        1111,
+        30,
+        28
+      ]
+    ]
+  },
+  {
+    "id": "106",
+    "question": "What is the color of the broom?\n(A) The color of the broom is black.\n(B) The color of the broom is yellow.\n(C) The color of the broom is red.\n(D) The color of the broom is gray.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_80880.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1818,
+        391,
+        137,
+        295
+      ]
+    ]
+  },
+  {
+    "id": "107",
+    "question": "What is the color of the body of the bucket?\n(A) The color of the body of the bucket is white.\n(B) The color of the body of the bucket is green.\n(C) The color of the body of the bucket is red.\n(D) The color of the body of the bucket is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_84131.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1283,
+        881,
+        39,
+        49
+      ]
+    ]
+  },
+  {
+    "id": "108",
+    "question": "What is the color of the dustpan?\n(A) The color of the dustpan is blue.\n(B) The color of the dustpan is red.\n(C) The color of the dustpan is white.\n(D) The color of the dustpan is purple.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_86101.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1599,
+        935,
+        45,
+        163
+      ]
+    ]
+  },
+  {
+    "id": "109",
+    "question": "What is the color of the mailbox?\n(A) The color of the mailbox is black.\n(B) The color of the mailbox is red.\n(C) The color of the mailbox is yellow.\n(D) The color of the mailbox is white.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_86882.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1015,
+        1095,
+        50,
+        48
+      ]
+    ]
+  },
+  {
+    "id": "110",
+    "question": "What is the color of the candles?\n(A) The color of the candles is yellow.\n(B) The color of the candles is white.\n(C) The color of the candles is red.\n(D) The color of the candles is gray.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_9019.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1041,
+        174,
+        70,
+        156
+      ]
+    ]
+  },
+  {
+    "id": "111",
+    "question": "What is the color of the bicycle?\n(A) The color of the bicycle is red.\n(B) The color of the bicycle is blue.\n(C) The color of the bicycle is white.\n(D) The color of the bicycle is silver.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_9230.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1202,
+        1095,
+        128,
+        74
+      ]
+    ]
+  },
+  {
+    "id": "112",
+    "question": "What is the material of the stool?\n(A) The material of the stool is plastic.\n(B) The material of the stool is wood.\n(C) The material of the stool is steel.\n(D) The material of the stool is bamboo.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_9611.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        1505,
+        610,
+        85,
+        87
+      ]
+    ]
+  },
+  {
+    "id": "113",
+    "question": "What is the color of the backpack?\n(A) The color of the backpack is red.\n(B) The color of the backpack is black.\n(C) The color of the backpack is white.\n(D) The color of the backpack is yellow.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_9877.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        2137,
+        994,
+        57,
+        72
+      ]
+    ]
+  },
+  {
+    "id": "114",
+    "question": "Is the color of the plastic bucket black or green?\n(A) The color of the plastic bucket is green.\n(B) The color of the plastic bucket is black.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_9957.jpg",
+    "category": "direct_attributes",
+    "box_json": [
+      [
+        2303,
+        422,
+        138,
+        121
+      ]
+    ]
+  },
+  {
+    "id": "115",
+    "question": "Is the umbrella on the left or right side of the traffic light?\n(A) The umbrella is on the right side of the traffic light.\n(B) The umbrella is on the left side of the traffic light.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_10313.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1772,
+        1152,
+        144,
+        100
+      ],
+      [
+        1479,
+        984,
+        42,
+        103
+      ]
+    ]
+  },
+  {
+    "id": "116",
+    "question": "Is the red car on the left or right side of the police car?\n(A) The red car is on the left side of the police car.\n(B) The red car is on the right side of the police car.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_19421.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1353,
+        1069,
+        24,
+        18
+      ],
+      [
+        1621,
+        1080,
+        90,
+        37
+      ]
+    ]
+  },
+  {
+    "id": "117",
+    "question": "Is the cyclist on the left or right side of the woman's handbag?\n(A) The cyclist is on the left side of the woman's handbag.\n(B) The cyclist is on the right side of the woman's handbag.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_23098.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1040,
+        971,
+        28,
+        41
+      ],
+      [
+        1974,
+        1002,
+        21,
+        24
+      ]
+    ]
+  },
+  {
+    "id": "118",
+    "question": "Is the blue truck on the left or right side of the white vehicle?\n(A) The blue truck is on the right side of the white vehicle.\n(B) The blue truck is on the left side of the white vehicle.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_23264.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1429,
+        688,
+        83,
+        35
+      ],
+      [
+        1193,
+        717,
+        80,
+        30
+      ]
+    ]
+  },
+  {
+    "id": "119",
+    "question": "Is the wheelchair on the left or right side of the lamp post?\n(A) The wheelchair is on the left side of the lamp post.\n(B) The wheelchair is on the right side of the lamp post.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_23298.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        169,
+        1048,
+        26,
+        27
+      ]
+    ]
+  },
+  {
+    "id": "120",
+    "question": "Is the small red car on the left or right side of the baby carriage?\n(A) The small red car is on the left side of the baby carriage.\n(B) The small red car is on the right side of the baby carriage.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_23575.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        675,
+        959,
+        50,
+        28
+      ],
+      [
+        837,
+        954,
+        39,
+        51
+      ]
+    ]
+  },
+  {
+    "id": "121",
+    "question": "Is the dog on the left or right side of the river?\n(A) The dog is on the right side of the river.\n(B) The dog is on the left side of the river.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_24031.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1850,
+        702,
+        19,
+        35
+      ]
+    ]
+  },
+  {
+    "id": "122",
+    "question": "Is the woman with a backpack on the left or right side of the person with a beanie?\n(A) The woman with a backpack is on the left side of the person with a beanie.\n(B) The woman with a backpack is on the right side of the person with a beanie.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_24464.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1151,
+        1305,
+        28,
+        29
+      ],
+      [
+        1938,
+        1275,
+        26,
+        35
+      ]
+    ]
+  },
+  {
+    "id": "123",
+    "question": "Is the baby carriage on the left or right side of the cone?\n(A) The baby carriage is on the right side of the cone.\n(B) The baby carriage is on the left side of the cone.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_24971.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        451,
+        1180,
+        27,
+        20
+      ],
+      [
+        313,
+        1189,
+        10,
+        15
+      ]
+    ]
+  },
+  {
+    "id": "124",
+    "question": "Is the red chair on the left or right side of the road?\n(A) The red chair is on the right side of the road.\n(B) The red chair is on the left side of the road.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_25678.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1456,
+        983,
+        17,
+        24
+      ]
+    ]
+  },
+  {
+    "id": "125",
+    "question": "Is the dog on the left or right side of the train?\n(A) The dog is on the right side of the train.\n(B) The dog is on the left side of the train.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_25747.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1863,
+        797,
+        23,
+        31
+      ]
+    ]
+  },
+  {
+    "id": "126",
+    "question": "Is the bell above or below the clock?\n(A) The bell is below the clock.\n(B) The bell is above the clock.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_28639.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        942,
+        660,
+        36,
+        72
+      ],
+      [
+        921,
+        493,
+        63,
+        48
+      ]
+    ]
+  },
+  {
+    "id": "127",
+    "question": "Is the green surfboard on the left or right side of the purple umbrella?\n(A) The green surfboard is on the left side of the purple umbrella.\n(B) The green surfboard is on the right side of the purple umbrella.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_29022.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        634,
+        606,
+        38,
+        31
+      ],
+      [
+        1746,
+        786,
+        69,
+        48
+      ]
+    ]
+  },
+  {
+    "id": "128",
+    "question": "Is the man with yellow cap on the left or right side of the lamp post?\n(A) The man with yellow cap is on the left side of the lamp post.\n(B) The man with yellow cap is on the right side of the lamp post.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_30441.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        26,
+        1355,
+        39,
+        121
+      ]
+    ]
+  },
+  {
+    "id": "129",
+    "question": "Is the yellow trash can on the left or right side of the motorcycle?\n(A) The yellow trash can is on the right side of the motorcycle.\n(B) The yellow trash can is on the left side of the motorcycle.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_3053.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1065,
+        1169,
+        71,
+        119
+      ],
+      [
+        517,
+        1158,
+        96,
+        93
+      ]
+    ]
+  },
+  {
+    "id": "130",
+    "question": "Is the man with green shorts on the left or right side of the blue boat?\n(A) The man with green shorts is on the left side of the blue boat.\n(B) The man with green shorts is on the right side of the blue boat.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_31038.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        366,
+        248,
+        26,
+        61
+      ]
+    ]
+  },
+  {
+    "id": "131",
+    "question": "Is the dog on the left or right side of the golden tower?\n(A) The dog is on the left side of the golden tower.\n(B) The dog is on the right side of the golden tower.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_31586.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        641,
+        901,
+        21,
+        32
+      ]
+    ]
+  },
+  {
+    "id": "132",
+    "question": "Is the shovel on the left or right side of the house?\n(A) The shovel is on the right side of the house.\n(B) The shovel is on the left side of the house.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_31784.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1487,
+        939,
+        125,
+        271
+      ]
+    ]
+  },
+  {
+    "id": "133",
+    "question": "Is the dog on the left or right side of the scooter?\n(A) The dog is on the left side of the scooter.\n(B) The dog is on the right side of the scooter.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_3194.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        875,
+        1231,
+        161,
+        112
+      ],
+      [
+        1723,
+        916,
+        97,
+        97
+      ]
+    ]
+  },
+  {
+    "id": "134",
+    "question": "Which one is closer to the camera, the water bottle or the vehicle?\n(A) The water bottle is closer to the camera.\n(B) The vehicle is closer to the camera.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_3222.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        297,
+        885,
+        41,
+        87
+      ]
+    ]
+  },
+  {
+    "id": "135",
+    "question": "Is the scooter on the left or right side of the cyclist?\n(A) The scooter is on the right side of the cyclist.\n(B) The scooter is on the left side of the cyclist.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_33280.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        3535,
+        763,
+        62,
+        114
+      ],
+      [
+        487,
+        763,
+        46,
+        82
+      ]
+    ]
+  },
+  {
+    "id": "136",
+    "question": "Is the silver vehicle on the left or right side of the red vehicle?\n(A) The silver vehicle is on the left side of the red vehicle.\n(B) The silver vehicle is on the right side of the red vehicle.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_34291.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        83,
+        89,
+        88,
+        40
+      ],
+      [
+        631,
+        16,
+        90,
+        38
+      ]
+    ]
+  },
+  {
+    "id": "137",
+    "question": "Is the telephone booth on the left or right side of the yellow van?\n(A) The telephone booth is on the right side of the yellow van.\n(B) The telephone booth is on the left side of the yellow van.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_34785.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        904,
+        1165,
+        45,
+        46
+      ],
+      [
+        1014,
+        1195,
+        23,
+        51
+      ]
+    ]
+  },
+  {
+    "id": "138",
+    "question": "Is the suitcase on the left or right side of the river?\n(A) The suitcase is on the left side of the river.\n(B) The suitcase is on the right side of the river.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_36787.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        20,
+        760,
+        68,
+        117
+      ]
+    ]
+  },
+  {
+    "id": "139",
+    "question": "Is the dog on the left or right side of the bicycle?\n(A) The dog is on the right side of the bicycle.\n(B) The dog is on the left side of the bicycle.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_3796.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        847,
+        1051,
+        59,
+        88
+      ],
+      [
+        239,
+        787,
+        67,
+        72
+      ]
+    ]
+  },
+  {
+    "id": "140",
+    "question": "Is the soccer ball on the left or right side of the water dispenser?\n(A) The soccer ball is on the right side of the water dispenser.\n(B) The soccer ball is on the left side of the water dispenser.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_40188.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1344,
+        942,
+        19,
+        20
+      ],
+      [
+        763,
+        766,
+        20,
+        59
+      ]
+    ]
+  },
+  {
+    "id": "141",
+    "question": "Is the yellow umbrella on the left or right side of the pink umbrella?\n(A) The yellow umbrella is on the left side of the pink umbrella.\n(B) The yellow umbrella is on the right side of the pink umbrella.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_40555.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1166,
+        1060,
+        33,
+        31
+      ],
+      [
+        1227,
+        986,
+        31,
+        28
+      ]
+    ]
+  },
+  {
+    "id": "142",
+    "question": "Is the vehicle on the left or right side of the blue umbrella?\n(A) The vehicle is on the left side of the blue umbrella.\n(B) The vehicle is on the right side of the blue umbrella.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_40977.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        627,
+        707,
+        41,
+        18
+      ],
+      [
+        989,
+        806,
+        23,
+        27
+      ]
+    ]
+  },
+  {
+    "id": "143",
+    "question": "Is the red backpack on the left or right side of the clock?\n(A) The red backpack is on the right side of the clock.\n(B) The red backpack is on the left side of the clock.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_4137.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1922,
+        1011,
+        64,
+        77
+      ],
+      [
+        1035,
+        692,
+        71,
+        62
+      ]
+    ]
+  },
+  {
+    "id": "144",
+    "question": "Is the cyclist on the left or right side of the sculpture?\n(A) The cyclist is on the right side of the sculpture.\n(B) The cyclist is on the left side of the sculpture.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_41869.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1396,
+        879,
+        23,
+        45
+      ]
+    ]
+  },
+  {
+    "id": "145",
+    "question": "Is the street lamp on the left or right side of the blue van?\n(A) The street lamp is on the left side of the blue van.\n(B) The street lamp is on the right side of the blue van.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_42676.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        932,
+        802,
+        23,
+        197
+      ],
+      [
+        1688,
+        888,
+        49,
+        31
+      ]
+    ]
+  },
+  {
+    "id": "146",
+    "question": "Is the blue bottle on the left or right side of the carton?\n(A) The blue bottle is on the left side of the carton.\n(B) The blue bottle is on the right side of the carton.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_45802.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        39,
+        967,
+        23,
+        53
+      ],
+      [
+        82,
+        976,
+        62,
+        38
+      ]
+    ]
+  },
+  {
+    "id": "147",
+    "question": "Is the red balloon above or below the white balloon?\n(A) The red balloon is below the white balloon.\n(B) The red balloon is above the white balloon.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_46221.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1593,
+        759,
+        24,
+        18
+      ],
+      [
+        1558,
+        714,
+        21,
+        23
+      ]
+    ]
+  },
+  {
+    "id": "148",
+    "question": "Is the kid with black shirt on the left or right side of the kid with blue shirt?\n(A) The kid with black shirt is on the left side of the kid with blue shirt.\n(B) The kid with black shirt is on the right side of the kid with blue shirt.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_4953.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1195,
+        717,
+        33,
+        73
+      ],
+      [
+        1244,
+        746,
+        29,
+        82
+      ]
+    ]
+  },
+  {
+    "id": "149",
+    "question": "Is the soccer ball on the left or right side of the long bench?\n(A) The soccer ball is on the left side of the long bench.\n(B) The soccer ball is on the right side of the long bench.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_49792.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1054,
+        1004,
+        15,
+        15
+      ]
+    ]
+  },
+  {
+    "id": "150",
+    "question": "Is the trash can on the left or right side of the black chair?\n(A) The trash can is on the left side of the black chair.\n(B) The trash can is on the right side of the black chair.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_5156.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1312,
+        823,
+        50,
+        73
+      ],
+      [
+        1443,
+        837,
+        45,
+        54
+      ]
+    ]
+  },
+  {
+    "id": "151",
+    "question": "Is the bowl on the left or right side of the faucet?\n(A) The bowl is on the right side of the faucet.\n(B) The bowl is on the left side of the faucet.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_51681.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        636,
+        619,
+        75,
+        91
+      ],
+      [
+        734,
+        656,
+        95,
+        42
+      ]
+    ]
+  },
+  {
+    "id": "152",
+    "question": "Is the shark doll above or below the banana doll?\n(A) The shark doll is above the banana doll.\n(B) The shark doll is below the banana doll.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_52228.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1484,
+        57,
+        208,
+        125
+      ],
+      [
+        1515,
+        254,
+        47,
+        96
+      ]
+    ]
+  },
+  {
+    "id": "153",
+    "question": "Is the volleyball on the left or right side of the man with white cap?\n(A) The volleyball is on the left side of the man with white cap.\n(B) The volleyball is on the right side of the man with white cap.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_53377.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1417,
+        820,
+        23,
+        22
+      ],
+      [
+        1510,
+        666,
+        66,
+        176
+      ]
+    ]
+  },
+  {
+    "id": "154",
+    "question": "Is the seesaw on the left or right side of the red vehicle?\n(A) The seesaw is on the right side of the red vehicle.\n(B) The seesaw is on the left side of the red vehicle.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_53509.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        2625,
+        1002,
+        192,
+        76
+      ],
+      [
+        2388,
+        835,
+        80,
+        46
+      ]
+    ]
+  },
+  {
+    "id": "155",
+    "question": "Is the red vehicle on the left or right side of the sculpture?\n(A) The red vehicle is on the right side of the sculpture.\n(B) The red vehicle is on the left side of the sculpture.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_5465.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1909,
+        610,
+        99,
+        33
+      ]
+    ]
+  },
+  {
+    "id": "156",
+    "question": "Is the orange luggage on the left or right side of the purple umbrella?\n(A) The orange luggage is on the right side of the purple umbrella.\n(B) The orange luggage is on the left side of the purple umbrella.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_5593.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1347,
+        1303,
+        46,
+        129
+      ],
+      [
+        164,
+        1199,
+        103,
+        44
+      ]
+    ]
+  },
+  {
+    "id": "157",
+    "question": "Is the dog on the left or right side of the crosswalk?\n(A) The dog is on the right side of the crosswalk.\n(B) The dog is on the left side of the crosswalk.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_5613.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        2136,
+        1099,
+        76,
+        51
+      ]
+    ]
+  },
+  {
+    "id": "158",
+    "question": "Is the bucket on the left or right side of the plunger?\n(A) The bucket is on the right side of the plunger.\n(B) The bucket is on the left side of the plunger.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_56362.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        254,
+        2150,
+        70,
+        92
+      ],
+      [
+        193,
+        2140,
+        27,
+        88
+      ]
+    ]
+  },
+  {
+    "id": "159",
+    "question": "Is the red suitcase on the left or right side of the red stool?\n(A) The red suitcase is on the left side of the red stool.\n(B) The red suitcase is on the right side of the red stool.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_57152.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        671,
+        978,
+        20,
+        25
+      ],
+      [
+        570,
+        980,
+        26,
+        29
+      ]
+    ]
+  },
+  {
+    "id": "160",
+    "question": "Is the motorcycle on the left or right side of the street?\n(A) The motorcycle is on the left side of the street.\n(B) The motorcycle is on the right side of the street.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_57960.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1324,
+        1416,
+        32,
+        40
+      ]
+    ]
+  },
+  {
+    "id": "161",
+    "question": "Is the pillar box on the left or right side of the man with the cane?\n(A) The pillar box is on the right side of the man with the cane.\n(B) The pillar box is on the left side of the man with the cane.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_58331.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        2069,
+        1127,
+        44,
+        83
+      ],
+      [
+        1701,
+        1136,
+        70,
+        161
+      ]
+    ]
+  },
+  {
+    "id": "162",
+    "question": "Is the shopping cart on the left or right side of the dog?\n(A) The shopping cart is on the left side of the dog.\n(B) The shopping cart is on the right side of the dog.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_59351.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1518,
+        1015,
+        70,
+        70
+      ],
+      [
+        1676,
+        1047,
+        52,
+        47
+      ]
+    ]
+  },
+  {
+    "id": "163",
+    "question": "Is the trash can on the left or right side of the baby carriage?\n(A) The trash can is on the right side of the baby carriage.\n(B) The trash can is on the left side of the baby carriage.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_61121.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1268,
+        929,
+        35,
+        37
+      ],
+      [
+        1529,
+        935,
+        32,
+        35
+      ]
+    ]
+  },
+  {
+    "id": "164",
+    "question": "Is the keyboard on the left or right side of the guitar?\n(A) The keyboard is on the left side of the guitar.\n(B) The keyboard is on the right side of the guitar.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_61594.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1259,
+        751,
+        90,
+        15
+      ],
+      [
+        1445,
+        734,
+        36,
+        70
+      ]
+    ]
+  },
+  {
+    "id": "165",
+    "question": "Is the motorcycle on the left or right side of the dog?\n(A) The motorcycle is on the left side of the dog.\n(B) The motorcycle is on the right side of the dog.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_6183.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1455,
+        1302,
+        117,
+        77
+      ],
+      [
+        684,
+        945,
+        150,
+        110
+      ]
+    ]
+  },
+  {
+    "id": "166",
+    "question": "Is the switch on the left or right side of the towel?\n(A) The switch is on the right side of the towel.\n(B) The switch is on the left side of the towel.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_62287.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        339,
+        1062,
+        147,
+        219
+      ],
+      [
+        776,
+        890,
+        35,
+        51
+      ]
+    ]
+  },
+  {
+    "id": "167",
+    "question": "Is the pillar box on the left or right side of the telephone booth?\n(A) The pillar box is on the right side of the telephone booth.\n(B) The pillar box is on the left side of the telephone booth.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_62783.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        532,
+        1033,
+        43,
+        99
+      ],
+      [
+        794,
+        1073,
+        24,
+        57
+      ]
+    ]
+  },
+  {
+    "id": "168",
+    "question": "Is the motorcyclist on the left or right side of the truck?\n(A) The motorcyclist is on the left side of the truck.\n(B) The motorcyclist is on the right side of the truck.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_64142.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        194,
+        700,
+        25,
+        40
+      ]
+    ]
+  },
+  {
+    "id": "169",
+    "question": "Is the baby carriage on the left or right side of the cyclist?\n(A) The baby carriage is on the right side of the cyclist.\n(B) The baby carriage is on the left side of the cyclist.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_64257.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        678,
+        870,
+        32,
+        42
+      ],
+      [
+        1819,
+        868,
+        44,
+        26
+      ]
+    ]
+  },
+  {
+    "id": "170",
+    "question": "Is the green statue on the left or right side of the white statue?\n(A) The green statue is on the left side of the white statue.\n(B) The green statue is on the right side of the white statue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_64554.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1209,
+        1053,
+        28,
+        83
+      ],
+      [
+        35,
+        1078,
+        21,
+        55
+      ]
+    ]
+  },
+  {
+    "id": "171",
+    "question": "Which one is closer to the camera, the black vehicle or the silver vehicle?\n(A) The black vehicle is closer to the camera.\n(B) The silver vehicle is closer to the camera.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_6531.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1391,
+        749,
+        58,
+        50
+      ],
+      [
+        1463,
+        712,
+        74,
+        39
+      ]
+    ]
+  },
+  {
+    "id": "172",
+    "question": "Is the yellow car on the left or right side of the pool?\n(A) The yellow car is on the left side of the pool.\n(B) The yellow car is on the right side of the pool.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_65606.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        824,
+        1208,
+        32,
+        26
+      ]
+    ]
+  },
+  {
+    "id": "173",
+    "question": "Is the white truck on the left or right side of the red truck?\n(A) The white truck is on the right side of the red truck.\n(B) The white truck is on the left side of the red truck.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_65804.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        2638,
+        618,
+        33,
+        18
+      ],
+      [
+        114,
+        736,
+        54,
+        22
+      ]
+    ]
+  },
+  {
+    "id": "174",
+    "question": "Is the green handbag on the left or right side of the blue umbrella?\n(A) The green handbag is on the left side of the blue umbrella.\n(B) The green handbag is on the right side of the blue umbrella.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_6887.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        629,
+        962,
+        38,
+        50
+      ],
+      [
+        1465,
+        872,
+        113,
+        81
+      ]
+    ]
+  },
+  {
+    "id": "175",
+    "question": "Is the dog on the left or right side of the blue bicycle?\n(A) The dog is on the right side of the blue bicycle.\n(B) The dog is on the left side of the blue bicycle.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_69550.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        624,
+        1229,
+        15,
+        21
+      ],
+      [
+        569,
+        1206,
+        28,
+        47
+      ]
+    ]
+  },
+  {
+    "id": "176",
+    "question": "Is the person with white trousers on the left or right side of the person in blue?\n(A) The person with white trousers is on the left side of the person in blue.\n(B) The person with white trousers is on the right side of the person in blue.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_69634.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        308,
+        381,
+        22,
+        33
+      ],
+      [
+        208,
+        400,
+        23,
+        50
+      ]
+    ]
+  },
+  {
+    "id": "177",
+    "question": "Is the telephone on the left or right side of the hand lamp?\n(A) The telephone is on the right side of the hand lamp.\n(B) The telephone is on the left side of the hand lamp.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_69962.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1478,
+        386,
+        63,
+        121
+      ],
+      [
+        1778,
+        323,
+        150,
+        135
+      ]
+    ]
+  },
+  {
+    "id": "178",
+    "question": "Is the broom on the left or right side of the folded chair?\n(A) The broom is on the left side of the folded chair.\n(B) The broom is on the right side of the folded chair.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_71151.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        675,
+        723,
+        62,
+        227
+      ],
+      [
+        728,
+        760,
+        118,
+        215
+      ]
+    ]
+  },
+  {
+    "id": "179",
+    "question": "Is the drum on the left or right side of the yellow balloon?\n(A) The drum is on the left side of the yellow balloon.\n(B) The drum is on the right side of the yellow balloon.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_7228.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        136,
+        835,
+        91,
+        80
+      ]
+    ]
+  },
+  {
+    "id": "180",
+    "question": "Is the blue mask on the left or right side of the black mask?\n(A) The blue mask is on the left side of the black mask.\n(B) The blue mask is on the right side of the black mask.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_7621.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        702,
+        387,
+        71,
+        101
+      ],
+      [
+        1457,
+        409,
+        86,
+        60
+      ]
+    ]
+  },
+  {
+    "id": "181",
+    "question": "Is the sky wheel on the left or right side of the person on the horse?\n(A) The sky wheel is on the right side of the person on the horse.\n(B) The sky wheel is on the left side of the person on the horse.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_7626.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        2970,
+        869,
+        71,
+        116
+      ],
+      [
+        2515,
+        1021,
+        19,
+        24
+      ]
+    ]
+  },
+  {
+    "id": "182",
+    "question": "Is the slide on the left or right side of the life buoy?\n(A) The slide is on the right side of the life buoy.\n(B) The slide is on the left side of the life buoy.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_77731.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1107,
+        693,
+        282,
+        149
+      ],
+      [
+        401,
+        738,
+        30,
+        35
+      ]
+    ]
+  },
+  {
+    "id": "183",
+    "question": "Is the wristband on the left or right side of the dog?\n(A) The wristband is on the left side of the dog.\n(B) The wristband is on the right side of the dog.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_7826.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        124,
+        960,
+        20,
+        24
+      ],
+      [
+        648,
+        1262,
+        170,
+        84
+      ]
+    ]
+  },
+  {
+    "id": "184",
+    "question": "Is the white chair on the left or right side of the street?\n(A) The white chair is on the right side of the street.\n(B) The white chair is on the left side of the street.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_78272.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1901,
+        1187,
+        92,
+        110
+      ]
+    ]
+  },
+  {
+    "id": "185",
+    "question": "Is the baby stroller on the left or right side of the person in orange?\n(A) The baby stroller is on the right side of the person in orange.\n(B) The baby stroller is on the left side of the person in orange.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_79349.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        652,
+        855,
+        31,
+        34
+      ],
+      [
+        410,
+        840,
+        28,
+        42
+      ]
+    ]
+  },
+  {
+    "id": "186",
+    "question": "Is the steel ladder on the left or right side of the wagon?\n(A) The steel ladder is on the left side of the wagon.\n(B) The steel ladder is on the right side of the wagon.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_79958.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1112,
+        686,
+        21,
+        47
+      ],
+      [
+        1345,
+        831,
+        65,
+        31
+      ]
+    ]
+  },
+  {
+    "id": "187",
+    "question": "Is the blue bench on the left or right side of the green door?\n(A) The blue bench is on the left side of the green door.\n(B) The blue bench is on the right side of the green door.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_80084.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        578,
+        1001,
+        95,
+        96
+      ]
+    ]
+  },
+  {
+    "id": "188",
+    "question": "Is the blue luggage on the left or right side of the bus?\n(A) The blue luggage is on the right side of the bus.\n(B) The blue luggage is on the left side of the bus.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_83235.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        2012,
+        909,
+        62,
+        47
+      ]
+    ]
+  },
+  {
+    "id": "189",
+    "question": "Is the bucket on the left or right side of the cyclist?\n(A) The bucket is on the right side of the cyclist.\n(B) The bucket is on the left side of the cyclist.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_86732.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        1904,
+        906,
+        46,
+        54
+      ],
+      [
+        882,
+        899,
+        22,
+        62
+      ]
+    ]
+  },
+  {
+    "id": "190",
+    "question": "Is the green bucket on the left or right side of the red tent?\n(A) The green bucket is on the left side of the red tent.\n(B) The green bucket is on the right side of the red tent.",
+    "labels": "A",
+    "image_path": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_87051.jpg",
+    "category": "relative_position",
+    "box_json": [
+      [
+        46,
+        1039,
+        55,
+        45
+      ]
+    ]
+  }
+]

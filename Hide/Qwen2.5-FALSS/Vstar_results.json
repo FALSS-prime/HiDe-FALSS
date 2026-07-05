@@ -1,0 +1,3564 @@
+{
+    "id": "21",
+    "Text": "What is the color of the woman's dress?\n(A) The color of the woman's dress is black.\n(B) The color of the woman's dress is pink.\n(C) The color of the woman's dress is white.\n(D) The color of the woman's dress is red.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_19272.jpg",
+    "box_json": [
+        [
+            1510,
+            1337,
+            26,
+            57
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "C",
+        "HiDe_s3_t0.7": "C"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.746,
+                    0.8146666666666667,
+                    0.8305,
+                    0.9626666666666667
+                ],
+                [
+                    0.2055,
+                    0.7773333333333333,
+                    0.3435,
+                    0.9073333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "dress of woman with black color, dress of woman with pink color, dress of woman with white color, dress of woman with red color"
+    }
+}
+{
+    "id": "92",
+    "Text": "What is the color of the man's cap?\n(A) The color of the man's cap is red.\n(B) The color of the man's cap is blue.\n(C) The color of the man's cap is white.\n(D) The color of the man's cap is gray.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_6965.jpg",
+    "box_json": [
+        [
+            939,
+            1014,
+            19,
+            11
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.574,
+                    0.4785,
+                    0.6846666666666666,
+                    0.5915
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "man's cap with red color, man's cap with blue color, man's cap with white color, man's cap with gray color"
+    }
+}
+{
+    "id": "87",
+    "Text": "What is the color of the toothbrush?\n(A) The color of the toothbrush is red.\n(B) The color of the toothbrush is green.\n(C) The color of the toothbrush is yellow.\n(D) The color of the toothbrush is blue.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_65476.jpg",
+    "box_json": [
+        [
+            270,
+            629,
+            50,
+            8
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.084,
+                    0.37,
+                    0.13066666666666665,
+                    0.46266666666666667
+                ],
+                [
+                    0.9146666666666666,
+                    0.4786666666666667,
+                    0.936,
+                    0.5426666666666666
+                ],
+                [
+                    0.456,
+                    0.42533333333333334,
+                    0.5343333333333333,
+                    0.5553333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "toothbrush with red color, toothbrush with green color, toothbrush with yellow color, toothbrush with blue color"
+    }
+}
+{
+    "id": "2",
+    "Text": "What is the color of the van?\n(A) The color of the van is red.\n(B) The color of the van is silver.\n(C) The color of the van is black.\n(D) The color of the van is white.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10204.jpg",
+    "box_json": [
+        [
+            520,
+            1002,
+            64,
+            29
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.21244444444444444,
+                    0.6106666666666667,
+                    0.2871111111111111,
+                    0.722
+                ],
+                [
+                    0.12488888888888888,
+                    0.7406666666666667,
+                    0.1622222222222222,
+                    0.796
+                ],
+                [
+                    0.0,
+                    0.7006666666666667,
+                    0.014222222222222223,
+                    0.7246666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "van with red color, van with silver color, van with black color, van with white color"
+    }
+}
+{
+    "id": "122",
+    "Text": "Is the woman with a backpack on the left or right side of the person with a beanie?\n(A) The woman with a backpack is on the left side of the person with a beanie.\n(B) The woman with a backpack is on the right side of the person with a beanie.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_24464.jpg",
+    "box_json": [
+        [
+            1151,
+            1305,
+            28,
+            29
+        ],
+        [
+            1938,
+            1275,
+            26,
+            35
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "B",
+        "HiDe_s3_t0.7": "B"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.3248888888888889,
+                    0.7553333333333333,
+                    0.41244444444444445,
+                    0.9106666666666666
+                ],
+                [
+                    0.8248888888888889,
+                    0.8146666666666667,
+                    0.9,
+                    0.9073333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "woman with a backpack, person with a beanie"
+    }
+}
+{
+    "id": "183",
+    "Text": "Is the wristband on the left or right side of the dog?\n(A) The wristband is on the left side of the dog.\n(B) The wristband is on the right side of the dog.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_7826.jpg",
+    "box_json": [
+        [
+            124,
+            960,
+            20,
+            24
+        ],
+        [
+            648,
+            1262,
+            170,
+            84
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.018,
+                    0.4022346368715084,
+                    0.12933333333333333,
+                    0.48044692737430167
+                ],
+                [
+                    0.4033333333333333,
+                    0.5581936685288641,
+                    0.5586666666666666,
+                    0.648975791433892
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "wristband, dog"
+    }
+}
+{
+    "id": "158",
+    "Text": "Is the bucket on the left or right side of the plunger?\n(A) The bucket is on the right side of the plunger.\n(B) The bucket is on the left side of the plunger.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_56362.jpg",
+    "box_json": [
+        [
+            254,
+            2150,
+            70,
+            92
+        ],
+        [
+            193,
+            2140,
+            27,
+            88
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "B",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.11066666666666666,
+                    0.9248888888888889,
+                    0.24066666666666667,
+                    1.0
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "bucket, plunger"
+    }
+}
+{
+    "id": "180",
+    "Text": "Is the blue mask on the left or right side of the black mask?\n(A) The blue mask is on the left side of the black mask.\n(B) The blue mask is on the right side of the black mask.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_7621.jpg",
+    "box_json": [
+        [
+            702,
+            387,
+            71,
+            101
+        ],
+        [
+            1457,
+            409,
+            86,
+            60
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.26222222222222225,
+                    0.24066666666666667,
+                    0.3622222222222222,
+                    0.35133333333333333
+                ],
+                [
+                    0.6248888888888889,
+                    0.24066666666666667,
+                    0.7097777777777777,
+                    0.4073333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "blue mask, black mask"
+    }
+}
+{
+    "id": "36",
+    "Text": "What is the color of the telephone?\n(A) The color of the telephone is orange.\n(B) The color of the telephone is blue.\n(C) The color of the telephone is green.\n(D) The color of the telephone is white.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_30034.jpg",
+    "box_json": [
+        [
+            806,
+            1076,
+            25,
+            28
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "D",
+        "HiDe_s3_t0.7": "D"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.4746666666666667,
+                    0.5746666666666667,
+                    0.5622222222222222,
+                    0.7213333333333334
+                ],
+                [
+                    0.21244444444444444,
+                    0.5366666666666666,
+                    0.3,
+                    0.6666666666666666
+                ],
+                [
+                    0.0,
+                    0.4633333333333333,
+                    0.11377777777777778,
+                    0.61
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "telephone with orange color, telephone with blue color, telephone with green color, telephone with white color"
+    }
+}
+{
+    "id": "61",
+    "Text": "What is the color of the plastic stool?\n(A) The color of the plastic stool is blue.\n(B) The color of the plastic stool is white.\n(C) The color of the plastic stool is black.\n(D) The color of the plastic stool is red.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_44097.jpg",
+    "box_json": [
+        [
+            2029,
+            1196,
+            45,
+            45
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.7976,
+                    0.592,
+                    0.8536,
+                    0.6846666666666666
+                ],
+                [
+                    0.7864,
+                    0.7586666666666667,
+                    0.8536,
+                    0.8513333333333334
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "stool with plastic material with color"
+    }
+}
+{
+    "id": "149",
+    "Text": "Is the soccer ball on the left or right side of the long bench?\n(A) The soccer ball is on the left side of the long bench.\n(B) The soccer ball is on the right side of the long bench.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_49792.jpg",
+    "box_json": [
+        [
+            1054,
+            1004,
+            15,
+            15
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "B",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.5789276340457443,
+                    0.6106666666666667,
+                    0.6944131983502062,
+                    0.7406666666666667
+                ],
+                [
+                    0.3787026621672291,
+                    0.592,
+                    0.4525684289463817,
+                    0.7033333333333334
+                ],
+                [
+                    0.7892763404574428,
+                    0.6666666666666666,
+                    0.9343832020997376,
+                    0.8666666666666667
+                ],
+                [
+                    0.04199475065616798,
+                    0.7033333333333334,
+                    0.08398950131233596,
+                    0.7406666666666667
+                ],
+                [
+                    0.5346831646044244,
+                    0.622,
+                    0.5493063367079115,
+                    0.674
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "soccer ball, bench with long size"
+    }
+}
+{
+    "id": "188",
+    "Text": "Is the blue luggage on the left or right side of the bus?\n(A) The blue luggage is on the right side of the bus.\n(B) The blue luggage is on the left side of the bus.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_83235.jpg",
+    "box_json": [
+        [
+            2012,
+            909,
+            62,
+            47
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "B"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.0,
+                    0.38866666666666666,
+                    0.2248888888888889,
+                    0.6666666666666666
+                ],
+                [
+                    0.8746666666666667,
+                    0.574,
+                    1.0,
+                    0.6666666666666666
+                ],
+                [
+                    0.7751111111111111,
+                    0.294,
+                    0.8742222222222222,
+                    0.4646666666666667
+                ],
+                [
+                    0.6622222222222223,
+                    0.518,
+                    0.7497777777777778,
+                    0.6106666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "luggage with blue color, bus"
+    }
+}
+{
+    "id": "75",
+    "Text": "What is the color of the electric rickshaw?\n(A) The color of the electric rickshaw is yellow.\n(B) The color of the electric rickshaw is green.\n(C) The color of the electric rickshaw is black.\n(D) The color of the electric rickshaw is red.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_55332.jpg",
+    "box_json": [
+        [
+            223,
+            2057,
+            51,
+            45
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.09666666666666666,
+                    0.8746666666666667,
+                    0.24066666666666667,
+                    0.972
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "rickshaw with electric type with color"
+    }
+}
+{
+    "id": "94",
+    "Text": "What is the color of the woman's jacket?\n(A) The color of the woman's jacket is blue.\n(B) The color of the woman's jacket is black.\n(C) The color of the woman's jacket is red.\n(D) The color of the woman's jacket is orange.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_7018.jpg",
+    "box_json": [
+        [
+            583,
+            1762,
+            28,
+            42
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.35133333333333333,
+                    0.8355489906450024,
+                    0.444,
+                    0.931068439192516
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "woman's jacket with blue color"
+    }
+}
+{
+    "id": "70",
+    "Text": "What is the color of the pet collar?\n(A) The color of the pet collar is purple.\n(B) The color of the pet collar is black.\n(C) The color of the pet collar is red.\n(D) The color of the pet collar is yellow.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_52155.jpg",
+    "box_json": [
+        [
+            719,
+            726,
+            21,
+            67
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.24977777777777777,
+                    0.4073333333333333,
+                    0.3497777777777778,
+                    0.5553333333333333
+                ],
+                [
+                    0.27466666666666667,
+                    0.0,
+                    0.3,
+                    0.018
+                ],
+                [
+                    0.7373333333333333,
+                    0.6106666666666667,
+                    0.7871111111111111,
+                    0.6846666666666666
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "pet collar with purple color, pet collar with black color, pet collar with red color, pet collar with yellow color"
+    }
+}
+{
+    "id": "106",
+    "Text": "What is the color of the broom?\n(A) The color of the broom is black.\n(B) The color of the broom is yellow.\n(C) The color of the broom is red.\n(D) The color of the broom is gray.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_80880.jpg",
+    "box_json": [
+        [
+            1818,
+            391,
+            137,
+            295
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "D",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.7497777777777778,
+                    0.2773333333333333,
+                    0.8746666666666667,
+                    0.48133333333333334
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "broom with black color, broom with yellow color, broom with red color, broom with gray color"
+    }
+}
+{
+    "id": "78",
+    "Text": "What is the color of the water bottle?\n(A) The color of the water bottle is red.\n(B) The color of the water bottle is blue.\n(C) The color of the water bottle is white.\n(D) The color of the water bottle is black.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_5674.jpg",
+    "box_json": [
+        [
+            43,
+            632,
+            26,
+            68
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.0,
+                    0.38866666666666666,
+                    0.049777777777777775,
+                    0.5
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "water bottle with red color, water bottle with blue color, water bottle with white color, water bottle with black color"
+    }
+}
+{
+    "id": "124",
+    "Text": "Is the red chair on the left or right side of the road?\n(A) The red chair is on the right side of the road.\n(B) The red chair is on the left side of the road.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_25678.jpg",
+    "box_json": [
+        [
+            1456,
+            983,
+            17,
+            24
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "B",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.0,
+                    0.696,
+                    0.12,
+                    0.8773333333333333
+                ],
+                [
+                    0.23733333333333334,
+                    0.7406666666666667,
+                    0.3622222222222222,
+                    0.8146666666666667
+                ],
+                [
+                    0.6124444444444445,
+                    0.6106666666666667,
+                    0.6871111111111111,
+                    0.7033333333333334
+                ],
+                [
+                    0.4,
+                    0.592,
+                    0.5871111111111111,
+                    0.8333333333333334
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "chair with red color, road"
+    }
+}
+{
+    "id": "34",
+    "Text": "What is the color of the trash can?\n(A) The color of the trash can is black.\n(B) The color of the trash can is green.\n(C) The color of the trash can is yellow.\n(D) The color of the trash can is silver.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_29509.jpg",
+    "box_json": [
+        [
+            2067,
+            1002,
+            10,
+            19
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "D",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.3308303886925795,
+                    0.6293333333333333,
+                    0.43418727915194344,
+                    0.7586666666666667
+                ],
+                [
+                    0.7725265017667845,
+                    0.6,
+                    1.0,
+                    0.8073333333333333
+                ],
+                [
+                    0.5181095406360424,
+                    0.6666666666666666,
+                    0.5428445229681979,
+                    0.6846666666666666
+                ],
+                [
+                    0.03666077738515901,
+                    0.648,
+                    0.07376325088339222,
+                    0.6846666666666666
+                ],
+                [
+                    0.2712014134275618,
+                    0.722,
+                    0.2959363957597173,
+                    0.7773333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "trash can with black color, trash can with green color, trash can with yellow color, trash can with silver color"
+    }
+}
+{
+    "id": "55",
+    "Text": "What is the color of the woman's scarf?\n(A) The color of the woman's scarf is red.\n(B) The color of the woman's scarf is white.\n(C) The color of the woman's scarf is green.\n(D) The color of the woman's scarf is yellow.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_40973.jpg",
+    "box_json": [
+        [
+            1825,
+            685,
+            31,
+            27
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.7871111111111111,
+                    0.37,
+                    1.0,
+                    0.518
+                ],
+                [
+                    0.0,
+                    0.0,
+                    0.024888888888888887,
+                    0.018
+                ],
+                [
+                    0.9173333333333333,
+                    0.5293333333333333,
+                    0.9697777777777777,
+                    0.5813333333333334
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "woman's scarf with red color, woman's scarf with white color, woman's scarf with green color, woman's scarf with yellow color"
+    }
+}
+{
+    "id": "25",
+    "Text": "What is the color of the suitcase?\n(A) The color of the suitcase is brown.\n(B) The color of the suitcase is black.\n(C) The color of the suitcase is gray.\n(D) The color of the suitcase is red.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_24546.jpg",
+    "box_json": [
+        [
+            1411,
+            1201,
+            41,
+            25
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.24811027123165852,
+                    0.6813333333333333,
+                    0.41218319253001334,
+                    0.8366666666666667
+                ],
+                [
+                    0.5998221431747444,
+                    0.7406666666666667,
+                    0.6874166296131614,
+                    0.8513333333333334
+                ],
+                [
+                    0.9248554913294798,
+                    0.6513333333333333,
+                    1.0,
+                    0.8846666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "suitcase with brown color, suitcase with black color, suitcase with gray color, suitcase with red color"
+    }
+}
+{
+    "id": "109",
+    "Text": "What is the color of the mailbox?\n(A) The color of the mailbox is black.\n(B) The color of the mailbox is red.\n(C) The color of the mailbox is yellow.\n(D) The color of the mailbox is white.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_86882.jpg",
+    "box_json": [
+        [
+            1015,
+            1095,
+            50,
+            48
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.42488888888888887,
+                    0.6846666666666666,
+                    0.5,
+                    0.796
+                ],
+                [
+                    0.0,
+                    0.6886666666666666,
+                    0.07466666666666667,
+                    0.8146666666666667
+                ],
+                [
+                    0.7822222222222223,
+                    0.8146666666666667,
+                    0.9048888888888889,
+                    0.944
+                ],
+                [
+                    0.9848888888888889,
+                    0.8106666666666666,
+                    1.0,
+                    0.8366666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "mailbox with black color, mailbox with red color, mailbox with yellow color, mailbox with white color"
+    }
+}
+{
+    "id": "169",
+    "Text": "Is the baby carriage on the left or right side of the cyclist?\n(A) The baby carriage is on the right side of the cyclist.\n(B) The baby carriage is on the left side of the cyclist.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_64257.jpg",
+    "box_json": [
+        [
+            678,
+            870,
+            32,
+            42
+        ],
+        [
+            1819,
+            868,
+            44,
+            26
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.6594202898550725,
+                    0.518,
+                    0.7337909992372235,
+                    0.648
+                ],
+                [
+                    0.2337909992372235,
+                    0.5553333333333333,
+                    0.2978642257818459,
+                    0.648
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "baby carriage, cyclist"
+    }
+}
+{
+    "id": "76",
+    "Text": "What is the color of the flute?\n(A) The color of the flute is black.\n(B) The color of the flute is white.\n(C) The color of the flute is silver.\n(D) The color of the flute is yellow.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_55722.jpg",
+    "box_json": [
+        [
+            1507,
+            1146,
+            79,
+            42
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "B",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.6374555160142349,
+                    0.7406666666666667,
+                    0.724644128113879,
+                    0.9606666666666667
+                ],
+                [
+                    0.49955516014234874,
+                    0.6813333333333333,
+                    0.5871886120996441,
+                    0.8366666666666667
+                ],
+                [
+                    0.8122775800711743,
+                    0.4073333333333333,
+                    0.849644128113879,
+                    0.46266666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "flute with black color, flute with white color, flute with silver color, flute with yellow color"
+    }
+}
+{
+    "id": "157",
+    "Text": "Is the dog on the left or right side of the crosswalk?\n(A) The dog is on the right side of the crosswalk.\n(B) The dog is on the left side of the crosswalk.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_5613.jpg",
+    "box_json": [
+        [
+            2136,
+            1099,
+            76,
+            51
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.8874555160142349,
+                    0.7033333333333334,
+                    1.0,
+                    0.8513333333333334
+                ],
+                [
+                    0.6623665480427047,
+                    0.7406666666666667,
+                    0.7998220640569395,
+                    0.87
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "dog, crosswalk"
+    }
+}
+{
+    "id": "174",
+    "Text": "Is the green handbag on the left or right side of the blue umbrella?\n(A) The green handbag is on the left side of the blue umbrella.\n(B) The green handbag is on the right side of the blue umbrella.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_6887.jpg",
+    "box_json": [
+        [
+            629,
+            962,
+            38,
+            50
+        ],
+        [
+            1465,
+            872,
+            113,
+            81
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.2622439893143366,
+                    0.6106666666666667,
+                    0.3245770258236865,
+                    0.722
+                ],
+                [
+                    0.8646482635796973,
+                    0.5,
+                    0.9496883348174533,
+                    0.6106666666666667
+                ],
+                [
+                    0.6371326803205699,
+                    0.5553333333333333,
+                    0.7123775601068566,
+                    0.6666666666666666
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "green handbag, umbrella with blue color"
+    }
+}
+{
+    "id": "68",
+    "Text": "What is the color of the bucket?\n(A) The color of the bucket is white.\n(B) The color of the bucket is black.\n(C) The color of the bucket is green.\n(D) The color of the bucket is red.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_50451.jpg",
+    "box_json": [
+        [
+            543,
+            1032,
+            46,
+            44
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.21244444444444444,
+                    0.6293333333333333,
+                    0.31244444444444447,
+                    0.7773333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "bucket with white color, bucket with black color, bucket with green color, bucket with red color"
+    }
+}
+{
+    "id": "53",
+    "Text": "What is the color of the helmet?\n(A) The color of the helmet is green.\n(B) The color of the helmet is blue.\n(C) The color of the helmet is white.\n(D) The color of the helmet is red.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_39678.jpg",
+    "box_json": [
+        [
+            668,
+            822,
+            19,
+            19
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "D",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.19733333333333333,
+                    0.47733333333333333,
+                    0.3248888888888889,
+                    0.6333333333333333
+                ],
+                [
+                    0.5688888888888889,
+                    0.5646666666666667,
+                    0.6182222222222222,
+                    0.638
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "helmet with green color, helmet with blue color, helmet with white color, helmet with red color"
+    }
+}
+{
+    "id": "145",
+    "Text": "Is the street lamp on the left or right side of the blue van?\n(A) The street lamp is on the left side of the blue van.\n(B) The street lamp is on the right side of the blue van.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_42676.jpg",
+    "box_json": [
+        [
+            932,
+            802,
+            23,
+            197
+        ],
+        [
+            1688,
+            888,
+            49,
+            31
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.5622222222222222,
+                    0.5553333333333333,
+                    0.8,
+                    0.7033333333333334
+                ],
+                [
+                    0.38711111111111113,
+                    0.5,
+                    0.4497777777777778,
+                    0.592
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "street lamp, van with blue color"
+    }
+}
+{
+    "id": "153",
+    "Text": "Is the volleyball on the left or right side of the man with white cap?\n(A) The volleyball is on the left side of the man with white cap.\n(B) The volleyball is on the right side of the man with white cap.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_53377.jpg",
+    "box_json": [
+        [
+            1417,
+            820,
+            23,
+            22
+        ],
+        [
+            1510,
+            666,
+            66,
+            176
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "B",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.6,
+                    0.38866666666666666,
+                    0.7248888888888889,
+                    0.592
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "volleyball, man with white cap"
+    }
+}
+{
+    "id": "72",
+    "Text": "What is the color of the man's cap?\n(A) The color of the man's cap is gray.\n(B) The color of the man's cap is red.\n(C) The color of the man's cap is green.\n(D) The color of the man's cap is yellow.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_5346.jpg",
+    "box_json": [
+        [
+            1069,
+            980,
+            44,
+            18
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.6,
+                    0.6106666666666667,
+                    0.7,
+                    0.7406666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "man's cap with gray color, man's cap with red color, man's cap with green color, man's cap with yellow color"
+    }
+}
+{
+    "id": "125",
+    "Text": "Is the dog on the left or right side of the train?\n(A) The dog is on the right side of the train.\n(B) The dog is on the left side of the train.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_25747.jpg",
+    "box_json": [
+        [
+            1863,
+            797,
+            23,
+            31
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.8,
+                    0.5,
+                    0.8622222222222222,
+                    0.592
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "dog, train"
+    }
+}
+{
+    "id": "127",
+    "Text": "Is the green surfboard on the left or right side of the purple umbrella?\n(A) The green surfboard is on the left side of the purple umbrella.\n(B) The green surfboard is on the right side of the purple umbrella.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_29022.jpg",
+    "box_json": [
+        [
+            634,
+            606,
+            38,
+            31
+        ],
+        [
+            1746,
+            786,
+            69,
+            48
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.8254109284762328,
+                    0.37066666666666664,
+                    0.9244780097734341,
+                    0.5173333333333333
+                ],
+                [
+                    0.2621057307863172,
+                    0.37,
+                    0.3247445579742337,
+                    0.46266666666666667
+                ],
+                [
+                    0.6996890270990671,
+                    0.5,
+                    0.8249666814749,
+                    0.648
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "surfboard with green color, umbrella with purple color"
+    }
+}
+{
+    "id": "29",
+    "Text": "What is the color of the flag?\n(A) The color of the flag is red.\n(B) The color of the flag is blue.\n(C) The color of the flag is yellow.\n(D) The color of the flag is white.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_26085.jpg",
+    "box_json": [
+        [
+            84,
+            793,
+            40,
+            46
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.0,
+                    0.48133333333333334,
+                    0.07466666666666667,
+                    0.592
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "flag with red color, flag with blue color, flag with yellow color, flag with white color"
+    }
+}
+{
+    "id": "152",
+    "Text": "Is the shark doll above or below the banana doll?\n(A) The shark doll is above the banana doll.\n(B) The shark doll is below the banana doll.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_52228.jpg",
+    "box_json": [
+        [
+            1484,
+            57,
+            208,
+            125
+        ],
+        [
+            1515,
+            254,
+            47,
+            96
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.6881670533642691,
+                    0.0,
+                    0.8051044083526682,
+                    0.24066666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "shark doll, banana doll"
+    }
+}
+{
+    "id": "111",
+    "Text": "What is the color of the bicycle?\n(A) The color of the bicycle is red.\n(B) The color of the bicycle is blue.\n(C) The color of the bicycle is white.\n(D) The color of the bicycle is silver.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_9230.jpg",
+    "box_json": [
+        [
+            1202,
+            1095,
+            128,
+            74
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.5248888888888888,
+                    0.7033333333333334,
+                    0.6124444444444445,
+                    0.8146666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "bicycle with red color, bicycle with blue color, bicycle with white color, bicycle with silver color"
+    }
+}
+{
+    "id": "24",
+    "Text": "What is the color of the motorcycle?\n(A) The color of the motorcycle is orange.\n(B) The color of the motorcycle is black.\n(C) The color of the motorcycle is white.\n(D) The color of the motorcycle is blue.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_23893.jpg",
+    "box_json": [
+        [
+            108,
+            805,
+            46,
+            58
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.028,
+                    0.518,
+                    0.1265,
+                    0.6106666666666667
+                ],
+                [
+                    0.5915,
+                    0.7406666666666667,
+                    0.69,
+                    0.8513333333333334
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "motorcycle with orange color, motorcycle with black color, motorcycle with white color, motorcycle with blue color"
+    }
+}
+{
+    "id": "156",
+    "Text": "Is the orange luggage on the left or right side of the purple umbrella?\n(A) The orange luggage is on the right side of the purple umbrella.\n(B) The orange luggage is on the left side of the purple umbrella.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_5593.jpg",
+    "box_json": [
+        [
+            1347,
+            1303,
+            46,
+            129
+        ],
+        [
+            164,
+            1199,
+            103,
+            44
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.06222222222222222,
+                    0.7773333333333333,
+                    0.2048888888888889,
+                    1.0
+                ],
+                [
+                    0.5622222222222222,
+                    0.8886666666666667,
+                    0.6373333333333333,
+                    1.0
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "orange luggage, umbrella with purple color"
+    }
+}
+{
+    "id": "97",
+    "Text": "What is the color of the dog?\n(A) The color of the dog is white.\n(B) The color of the dog is brown.\n(C) The color of the dog is black.\n(D) The color of the dog is golden.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_717.jpg",
+    "box_json": [
+        [
+            615,
+            634,
+            61,
+            58
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.24977777777777777,
+                    0.38866666666666666,
+                    0.3248888888888889,
+                    0.5
+                ],
+                [
+                    0.5622222222222222,
+                    0.444,
+                    0.6124444444444445,
+                    0.5
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "dog with white color, dog with brown color, dog with black color, dog with golden color"
+    }
+}
+{
+    "id": "23",
+    "Text": "What is the breed of the dog?\n(A) The breed of the dog is golden retriever.\n(B) The breed of the dog is Dalmatian.\n(C) The breed of the dog is corgi.\n(D) The breed of the dog is Husky.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_20519.jpg",
+    "box_json": [
+        [
+            652,
+            1250,
+            63,
+            39
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.23443708609271524,
+                    0.796,
+                    0.3333333333333333,
+                    0.9073333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "golden retriever, dalmatian, corgi, husky"
+    }
+}
+{
+    "id": "116",
+    "Text": "Is the red car on the left or right side of the police car?\n(A) The red car is on the left side of the police car.\n(B) The red car is on the right side of the police car.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_19421.jpg",
+    "box_json": [
+        [
+            1353,
+            1069,
+            24,
+            18
+        ],
+        [
+            1621,
+            1080,
+            90,
+            37
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.5746666666666667,
+                    0.6106666666666667,
+                    0.6871111111111111,
+                    0.7586666666666667
+                ],
+                [
+                    0.7,
+                    0.6846666666666666,
+                    0.7871111111111111,
+                    0.7773333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "red car, police car"
+    }
+}
+{
+    "id": "142",
+    "Text": "Is the vehicle on the left or right side of the blue umbrella?\n(A) The vehicle is on the left side of the blue umbrella.\n(B) The vehicle is on the right side of the blue umbrella.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_40977.jpg",
+    "box_json": [
+        [
+            627,
+            707,
+            41,
+            18
+        ],
+        [
+            989,
+            806,
+            23,
+            27
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.24977777777777777,
+                    0.42533333333333334,
+                    0.4746666666666667,
+                    0.8146666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "vehicle, umbrella with blue color"
+    }
+}
+{
+    "id": "83",
+    "Text": "What is the color of the baby carriage?\n(A) The color of the baby carriage is black.\n(B) The color of the baby carriage is green.\n(C) The color of the baby carriage is red.\n(D) The color of the baby carriage is blue.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_63876.jpg",
+    "box_json": [
+        [
+            638,
+            992,
+            54,
+            51
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.374,
+                    0.4535,
+                    0.518,
+                    0.563
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "carriage with baby color with black color, carriage with baby color with green color, carriage with baby color with red color, carriage with baby color with blue color"
+    }
+}
+{
+    "id": "45",
+    "Text": "What is the color of the cart?\n(A) The color of the cart is green.\n(B) The color of the cart is black.\n(C) The color of the cart is white.\n(D) The color of the cart is red.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_3568.jpg",
+    "box_json": [
+        [
+            1544,
+            969,
+            127,
+            84
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.6497777777777778,
+                    0.592,
+                    0.7497777777777778,
+                    0.7406666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "cart with green color, cart with black color, cart with white color, cart with red color"
+    }
+}
+{
+    "id": "148",
+    "Text": "Is the kid with black shirt on the left or right side of the kid with blue shirt?\n(A) The kid with black shirt is on the left side of the kid with blue shirt.\n(B) The kid with black shirt is on the right side of the kid with blue shirt.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_4953.jpg",
+    "box_json": [
+        [
+            1195,
+            717,
+            33,
+            73
+        ],
+        [
+            1244,
+            746,
+            29,
+            82
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.5124444444444445,
+                    0.46266666666666667,
+                    0.6248888888888889,
+                    0.574
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "kid with black shirt, kid with blue shirt"
+    }
+}
+{
+    "id": "113",
+    "Text": "What is the color of the backpack?\n(A) The color of the backpack is red.\n(B) The color of the backpack is black.\n(C) The color of the backpack is white.\n(D) The color of the backpack is yellow.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_9877.jpg",
+    "box_json": [
+        [
+            2137,
+            994,
+            57,
+            72
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.9124444444444444,
+                    0.6293333333333333,
+                    1.0,
+                    0.796
+                ],
+                [
+                    0.6653333333333333,
+                    0.46266666666666667,
+                    0.7595555555555555,
+                    0.5853333333333334
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "backpack with red color, backpack with black color, backpack with white color, backpack with yellow color"
+    }
+}
+{
+    "id": "135",
+    "Text": "Is the scooter on the left or right side of the cyclist?\n(A) The scooter is on the right side of the cyclist.\n(B) The scooter is on the left side of the cyclist.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_33280.jpg",
+    "box_json": [
+        [
+            3535,
+            763,
+            62,
+            114
+        ],
+        [
+            487,
+            763,
+            46,
+            82
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.8732394366197183,
+                    0.518,
+                    0.9154929577464789,
+                    0.6106666666666667
+                ],
+                [
+                    0.11267605633802817,
+                    0.5,
+                    0.14788732394366197,
+                    0.592
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "<scooter>, <cyclist>"
+    }
+}
+{
+    "id": "19",
+    "Text": "What is the color of the little girl's shirt?\n(A) The color of the little girl's shirt is pink.\n(B) The color of the little girl's shirt is white.\n(C) The color of the little girl's shirt is yellow.\n(D) The color of the little girl's shirt is black.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_17.jpg",
+    "box_json": [
+        [
+            1682,
+            1175,
+            28,
+            31
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.8401448525607863,
+                    0.722,
+                    0.9270563890325918,
+                    0.8333333333333334
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "shirt with little girl's color"
+    }
+}
+{
+    "id": "85",
+    "Text": "What is the color of the umbrella?\n(A) The color of the umbrella is purple.\n(B) The color of the umbrella is black.\n(C) The color of the umbrella is red.\n(D) The color of the umbrella is blue.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_64897.jpg",
+    "box_json": [
+        [
+            308,
+            792,
+            36,
+            28
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.11224489795918367,
+                    0.5,
+                    0.17480035492457852,
+                    0.592
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "umbrella with purple color"
+    }
+}
+{
+    "id": "8",
+    "Text": "What is the color of the SUV car?\n(A) The color of the SUV car is silver.\n(B) The color of the SUV car is black.\n(C) The color of the SUV car is red.\n(D) The color of the SUV car is blue.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10919.jpg",
+    "box_json": [
+        [
+            1403,
+            723,
+            63,
+            32
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "B",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.9253333333333333,
+                    0.2871772039180766,
+                    1.0,
+                    0.3748886910062333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "suv car with silver color, suv car with black color, suv car with red color, suv car with blue color"
+    }
+}
+{
+    "id": "117",
+    "Text": "Is the cyclist on the left or right side of the woman's handbag?\n(A) The cyclist is on the left side of the woman's handbag.\n(B) The cyclist is on the right side of the woman's handbag.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_23098.jpg",
+    "box_json": [
+        [
+            1040,
+            971,
+            28,
+            41
+        ],
+        [
+            1974,
+            1002,
+            21,
+            24
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.43733333333333335,
+                    0.6106666666666667,
+                    0.5124444444444445,
+                    0.7406666666666667
+                ],
+                [
+                    0.8497777777777777,
+                    0.574,
+                    0.9124444444444444,
+                    0.722
+                ],
+                [
+                    0.0,
+                    0.46266666666666667,
+                    0.06,
+                    0.592
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "cyclist, handbag of woman"
+    }
+}
+{
+    "id": "110",
+    "Text": "What is the color of the candles?\n(A) The color of the candles is yellow.\n(B) The color of the candles is white.\n(C) The color of the candles is red.\n(D) The color of the candles is gray.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_9019.jpg",
+    "box_json": [
+        [
+            1041,
+            174,
+            70,
+            156
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.4924924924924925,
+                    0.092,
+                    0.5770770770770771,
+                    0.222
+                ],
+                [
+                    0.8003003003003003,
+                    0.25266666666666665,
+                    0.8188188188188188,
+                    0.302
+                ],
+                [
+                    0.1966966966966967,
+                    0.08133333333333333,
+                    0.3938938938938939,
+                    0.2886666666666667
+                ],
+                [
+                    0.7042042042042042,
+                    0.0,
+                    0.8028028028028028,
+                    0.148
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "candles with yellow color, candles with white color, candles with red color, candles with gray color"
+    }
+}
+{
+    "id": "132",
+    "Text": "Is the shovel on the left or right side of the house?\n(A) The shovel is on the right side of the house.\n(B) The shovel is on the left side of the house.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_31784.jpg",
+    "box_json": [
+        [
+            1487,
+            939,
+            125,
+            271
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.6622222222222223,
+                    0.7033333333333334,
+                    0.7248888888888889,
+                    0.87
+                ],
+                [
+                    0.0,
+                    0.25866666666666666,
+                    0.12488888888888888,
+                    0.37
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "shovel, house"
+    }
+}
+{
+    "id": "128",
+    "Text": "Is the man with yellow cap on the left or right side of the lamp post?\n(A) The man with yellow cap is on the left side of the lamp post.\n(B) The man with yellow cap is on the right side of the lamp post.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_30441.jpg",
+    "box_json": [
+        [
+            26,
+            1355,
+            39,
+            121
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.0,
+                    0.5124444444444445,
+                    0.11066666666666666,
+                    0.7248888888888889
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "man with yellow cap, lamp post"
+    }
+}
+{
+    "id": "165",
+    "Text": "Is the motorcycle on the left or right side of the dog?\n(A) The motorcycle is on the left side of the dog.\n(B) The motorcycle is on the right side of the dog.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_6183.jpg",
+    "box_json": [
+        [
+            1455,
+            1302,
+            117,
+            77
+        ],
+        [
+            684,
+            945,
+            150,
+            110
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.2998220640569395,
+                    0.6293333333333333,
+                    0.3874555160142349,
+                    0.7406666666666667
+                ],
+                [
+                    0.625,
+                    0.8333333333333334,
+                    0.7121886120996441,
+                    0.944
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "motorcycle, dog"
+    }
+}
+{
+    "id": "80",
+    "Text": "What is the color of the dress?\n(A) The color of the dress is red.\n(B) The color of the dress is pink.\n(C) The color of the dress is black.\n(D) The color of the dress is white.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_59482.jpg",
+    "box_json": [
+        [
+            1766,
+            464,
+            29,
+            95
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "B",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.7622222222222222,
+                    0.2773333333333333,
+                    0.8248888888888889,
+                    0.38866666666666666
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "dress with red color, dress with pink color, dress with black color, dress with white color"
+    }
+}
+{
+    "id": "115",
+    "Text": "Is the umbrella on the left or right side of the traffic light?\n(A) The umbrella is on the right side of the traffic light.\n(B) The umbrella is on the left side of the traffic light.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_10313.jpg",
+    "box_json": [
+        [
+            1772,
+            1152,
+            144,
+            100
+        ],
+        [
+            1479,
+            984,
+            42,
+            103
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.6373333333333333,
+                    0.6293333333333333,
+                    0.7871111111111111,
+                    0.7586666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "umbrella with purple color, traffic light"
+    }
+}
+{
+    "id": "140",
+    "Text": "Is the soccer ball on the left or right side of the water dispenser?\n(A) The soccer ball is on the right side of the water dispenser.\n(B) The soccer ball is on the left side of the water dispenser.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_40188.jpg",
+    "box_json": [
+        [
+            1344,
+            942,
+            19,
+            20
+        ],
+        [
+            763,
+            766,
+            20,
+            59
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.5677590788308238,
+                    0.574,
+                    0.629317980513729,
+                    0.6846666666666666
+                ],
+                [
+                    0.27147918511957486,
+                    0.46266666666666667,
+                    0.4193976970770593,
+                    0.6106666666666667
+                ],
+                [
+                    0.6213463241806909,
+                    0.4766666666666667,
+                    0.6988485385296723,
+                    0.5226666666666666
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "soccer ball, water dispenser"
+    }
+}
+{
+    "id": "131",
+    "Text": "Is the dog on the left or right side of the golden tower?\n(A) The dog is on the left side of the golden tower.\n(B) The dog is on the right side of the golden tower.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_31586.jpg",
+    "box_json": [
+        [
+            641,
+            901,
+            21,
+            32
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.24977777777777777,
+                    0.5553333333333333,
+                    0.31244444444444447,
+                    0.6666666666666666
+                ],
+                [
+                    0.5,
+                    0.11066666666666666,
+                    0.5871111111111111,
+                    0.38866666666666666
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "dog, tower with golden color"
+    }
+}
+{
+    "id": "190",
+    "Text": "Is the green bucket on the left or right side of the red tent?\n(A) The green bucket is on the left side of the red tent.\n(B) The green bucket is on the right side of the red tent.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_87051.jpg",
+    "box_json": [
+        [
+            46,
+            1039,
+            55,
+            45
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.0,
+                    0.48133333333333334,
+                    0.12488888888888888,
+                    0.7406666666666667
+                ],
+                [
+                    0.3622222222222222,
+                    0.2773333333333333,
+                    0.4871111111111111,
+                    0.4073333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "green bucket, red tent"
+    }
+}
+{
+    "id": "66",
+    "Text": "What is the color of the flower?\n(A) The color of the flower is white.\n(B) The color of the flower is red.\n(C) The color of the flower is pink.\n(D) The color of the flower is yellow.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_4988.jpg",
+    "box_json": [
+        [
+            1356,
+            1073,
+            70,
+            33
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.5871111111111111,
+                    0.6666666666666666,
+                    0.6746666666666666,
+                    0.7773333333333333
+                ],
+                [
+                    0.9,
+                    0.8333333333333334,
+                    0.9871111111111112,
+                    0.9626666666666667
+                ],
+                [
+                    0.0,
+                    0.0,
+                    0.014222222222222223,
+                    0.064
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "flower with white color, flower with red color, flower with pink color, flower with yellow color"
+    }
+}
+{
+    "id": "27",
+    "Text": "What is the color of the flag?\n(A) The color of the flag is blue and yellow.\n(B) The color of the flag is green and white.\n(C) The color of the flag is blue and red.\n(D) The color of the flag is red and yellow.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_25219.jpg",
+    "box_json": [
+        [
+            1634,
+            1140,
+            27,
+            31
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.7885,
+                    0.722,
+                    0.873,
+                    0.8146666666666667
+                ],
+                [
+                    0.9295,
+                    0.7586666666666667,
+                    0.9435,
+                    0.7773333333333333
+                ],
+                [
+                    0.338,
+                    0.4073333333333333,
+                    0.394,
+                    0.48133333333333334
+                ],
+                [
+                    0.357,
+                    0.22866666666666666,
+                    0.4455,
+                    0.3446666666666667
+                ],
+                [
+                    0.952,
+                    0.34,
+                    1.0,
+                    0.456
+                ],
+                [
+                    0.1125,
+                    0.592,
+                    0.197,
+                    0.722
+                ],
+                [
+                    0.8165,
+                    0.5553333333333333,
+                    0.8305,
+                    0.574
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "flag with blue color, flag with yellow color, flag with green color, flag with white color, flag with blue color, flag with red color, flag with red color, flag with yellow color"
+    }
+}
+{
+    "id": "151",
+    "Text": "Is the bowl on the left or right side of the faucet?\n(A) The bowl is on the right side of the faucet.\n(B) The bowl is on the left side of the faucet.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_51681.jpg",
+    "box_json": [
+        [
+            636,
+            619,
+            75,
+            91
+        ],
+        [
+            734,
+            656,
+            95,
+            42
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "B",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.26222222222222225,
+                    0.37,
+                    0.37466666666666665,
+                    0.5
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "bowl, faucet"
+    }
+}
+{
+    "id": "177",
+    "Text": "Is the telephone on the left or right side of the hand lamp?\n(A) The telephone is on the right side of the hand lamp.\n(B) The telephone is on the left side of the hand lamp.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_69962.jpg",
+    "box_json": [
+        [
+            1478,
+            386,
+            63,
+            121
+        ],
+        [
+            1778,
+            323,
+            150,
+            135
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.7745664739884393,
+                    0.20333333333333334,
+                    0.8497109826589595,
+                    0.3333333333333333
+                ],
+                [
+                    0.6371720764784349,
+                    0.24066666666666667,
+                    0.6998666073810582,
+                    0.3333333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "telephone, hand lamp"
+    }
+}
+{
+    "id": "134",
+    "Text": "Which one is closer to the camera, the water bottle or the vehicle?\n(A) The water bottle is closer to the camera.\n(B) The vehicle is closer to the camera.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_3222.jpg",
+    "box_json": [
+        [
+            297,
+            885,
+            41,
+            87
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.1125,
+                    0.5553333333333333,
+                    0.197,
+                    0.6666666666666666
+                ],
+                [
+                    0.704,
+                    0.222,
+                    0.887,
+                    0.5
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "water bottle, vehicle"
+    }
+}
+{
+    "id": "96",
+    "Text": "What is the color of the trash can?\n(A) The color of the trash can is green.\n(B) The color of the trash can is black.\n(C) The color of the trash can is red.\n(D) The color of the trash can is yellow.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_7081.jpg",
+    "box_json": [
+        [
+            1088,
+            1018,
+            51,
+            66
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.43733333333333335,
+                    0.648,
+                    0.5248888888888888,
+                    0.7773333333333333
+                ],
+                [
+                    0.7622222222222222,
+                    0.6106666666666667,
+                    0.8,
+                    0.6666666666666666
+                ],
+                [
+                    0.8871111111111111,
+                    0.5333333333333333,
+                    0.9746666666666667,
+                    0.6886666666666666
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "trash can with green color, trash can with black color, trash can with red color, trash can with yellow color"
+    }
+}
+{
+    "id": "4",
+    "Text": "What is the color of the fire hydrant?\n(A) The color of the fire hydrant is yellow.\n(B) The color of the fire hydrant is red.\n(C) The color of the fire hydrant is black.\n(D) The color of the fire hydrant is white.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10415.jpg",
+    "box_json": [
+        [
+            383,
+            1246,
+            22,
+            43
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.11244444444444444,
+                    0.7586666666666667,
+                    0.2248888888888889,
+                    0.8886666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "fire hydrant with yellow color, fire hydrant with red color, fire hydrant with black color, fire hydrant with white color"
+    }
+}
+{
+    "id": "16",
+    "Text": "What is the color of the clock?\n(A) The color of the clock is green.\n(B) The color of the clock is black.\n(C) The color of the clock is red.\n(D) The color of the clock is yellow.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_16306.jpg",
+    "box_json": [
+        [
+            1372,
+            832,
+            44,
+            29
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "C",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.5399290150842946,
+                    0.37066666666666664,
+                    0.6499556344276841,
+                    0.6106666666666667
+                ],
+                [
+                    0.5874001774622892,
+                    0.2773333333333333,
+                    0.6246672582076309,
+                    0.3333333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "clock with green color, clock with black color, clock with red color, clock with yellow color"
+    }
+}
+{
+    "id": "166",
+    "Text": "Is the switch on the left or right side of the towel?\n(A) The switch is on the right side of the towel.\n(B) The switch is on the left side of the towel.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_62287.jpg",
+    "box_json": [
+        [
+            339,
+            1062,
+            147,
+            219
+        ],
+        [
+            776,
+            890,
+            35,
+            51
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.46266666666666667,
+                    0.3622222222222222,
+                    0.592,
+                    0.4497777777777778
+                ],
+                [
+                    0.222,
+                    0.4622222222222222,
+                    0.3333333333333333,
+                    0.5373333333333333
+                ],
+                [
+                    0.6666666666666666,
+                    0.5,
+                    0.7773333333333333,
+                    0.5622222222222222
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "switch, towel"
+    }
+}
+{
+    "id": "179",
+    "Text": "Is the drum on the left or right side of the yellow balloon?\n(A) The drum is on the left side of the yellow balloon.\n(B) The drum is on the right side of the yellow balloon.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_7228.jpg",
+    "box_json": [
+        [
+            136,
+            835,
+            91,
+            80
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.036741921204072596,
+                    0.518,
+                    0.1111111111111111,
+                    0.6293333333333333
+                ],
+                [
+                    0.5431606905710491,
+                    0.148,
+                    0.617087206728641,
+                    0.2773333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "drum, balloon with yellow color"
+    }
+}
+{
+    "id": "163",
+    "Text": "Is the trash can on the left or right side of the baby carriage?\n(A) The trash can is on the right side of the baby carriage.\n(B) The trash can is on the left side of the baby carriage.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_61121.jpg",
+    "box_json": [
+        [
+            1268,
+            929,
+            35,
+            37
+        ],
+        [
+            1529,
+            935,
+            32,
+            35
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.6622222222222223,
+                    0.592,
+                    0.8248888888888889,
+                    0.722
+                ],
+                [
+                    0.5248888888888888,
+                    0.574,
+                    0.6,
+                    0.6846666666666666
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "trash can, baby carriage"
+    }
+}
+{
+    "id": "137",
+    "Text": "Is the telephone booth on the left or right side of the yellow van?\n(A) The telephone booth is on the right side of the yellow van.\n(B) The telephone booth is on the left side of the yellow van.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_34785.jpg",
+    "box_json": [
+        [
+            904,
+            1165,
+            45,
+            46
+        ],
+        [
+            1014,
+            1195,
+            23,
+            51
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.32222222222222224,
+                    0.6666666666666666,
+                    0.4871111111111111,
+                    0.87
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "telephone booth, van with yellow color"
+    }
+}
+{
+    "id": "159",
+    "Text": "Is the red suitcase on the left or right side of the red stool?\n(A) The red suitcase is on the left side of the red stool.\n(B) The red suitcase is on the right side of the red stool.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_57152.jpg",
+    "box_json": [
+        [
+            671,
+            978,
+            20,
+            25
+        ],
+        [
+            570,
+            980,
+            26,
+            29
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "B"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.4415204678362573,
+                    0.648,
+                    0.5580618212197159,
+                    0.7773333333333333
+                ],
+                [
+                    0.2556390977443609,
+                    0.6293333333333333,
+                    0.3253968253968254,
+                    0.722
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "red suitcase, red stool"
+    }
+}
+{
+    "id": "120",
+    "Text": "Is the small red car on the left or right side of the baby carriage?\n(A) The small red car is on the left side of the baby carriage.\n(B) The small red car is on the right side of the baby carriage.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_23575.jpg",
+    "box_json": [
+        [
+            675,
+            959,
+            50,
+            28
+        ],
+        [
+            837,
+            954,
+            39,
+            51
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.2871111111111111,
+                    0.6106666666666667,
+                    0.8746666666666667,
+                    0.7586666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "small red car, baby carriage"
+    }
+}
+{
+    "id": "1",
+    "Text": "What is the color of the plastic basin?\n(A) The color of the plastic basin is pink.\n(B) The color of the plastic basin is yellow.\n(C) The color of the plastic basin is blue.\n(D) The color of the plastic basin is white.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_10052.jpg",
+    "box_json": [
+        [
+            2583,
+            1227,
+            94,
+            58
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.7625681405208964,
+                    0.7406666666666667,
+                    0.8219261053906723,
+                    0.8886666666666667
+                ],
+                [
+                    0.03361599030890369,
+                    0.592,
+                    0.0760145366444579,
+                    0.6846666666666666
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "plastic basin with plastic material with color"
+    }
+}
+{
+    "id": "67",
+    "Text": "What is the color of the cart?\n(A) The color of the cart is green.\n(B) The color of the cart is white.\n(C) The color of the cart is silver.\n(D) The color of the cart is black.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_50442.jpg",
+    "box_json": [
+        [
+            233,
+            747,
+            57,
+            64
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.049777777777777775,
+                    0.46266666666666667,
+                    0.1622222222222222,
+                    0.592
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "cart with green color, cart with white color, cart with silver color, cart with black color"
+    }
+}
+{
+    "id": "130",
+    "Text": "Is the man with green shorts on the left or right side of the blue boat?\n(A) The man with green shorts is on the left side of the blue boat.\n(B) The man with green shorts is on the right side of the blue boat.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_31038.jpg",
+    "box_json": [
+        [
+            366,
+            248,
+            26,
+            61
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.3622222222222222,
+                    0.4073333333333333,
+                    0.6248888888888889,
+                    0.574
+                ],
+                [
+                    0.13733333333333334,
+                    0.11066666666666666,
+                    0.2,
+                    0.24066666666666667
+                ],
+                [
+                    0.5497777777777778,
+                    0.8146666666666667,
+                    0.6746666666666666,
+                    0.944
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "man with green shorts, boat with blue color"
+    }
+}
+{
+    "id": "146",
+    "Text": "Is the blue bottle on the left or right side of the carton?\n(A) The blue bottle is on the left side of the carton.\n(B) The blue bottle is on the right side of the carton.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/relative_position/sa_45802.jpg",
+    "box_json": [
+        [
+            39,
+            967,
+            23,
+            53
+        ],
+        [
+            82,
+            976,
+            62,
+            38
+        ]
+    ],
+    "category": "relative_position",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.0,
+                    0.6106666666666667,
+                    0.1,
+                    0.722
+                ],
+                [
+                    0.2,
+                    0.574,
+                    0.27466666666666667,
+                    0.6846666666666666
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "blue bottle, carton"
+    }
+}
+{
+    "id": "60",
+    "Text": "What is the color of the car?\n(A) The color of the car is white.\n(B) The color of the car is black.\n(C) The color of the car is silver.\n(D) The color of the car is red.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_43391.jpg",
+    "box_json": [
+        [
+            314,
+            920,
+            108,
+            50
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.062267427437360454,
+                    0.5553333333333333,
+                    0.11089059786653437,
+                    0.6846666666666666
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "car with white color, car with black color, car with silver color, car with red color"
+    }
+}
+{
+    "id": "52",
+    "Text": "What is the color of the tissue box?\n(A) The color of the tissue box is blue.\n(B) The color of the tissue box is gray.\n(C) The color of the tissue box is black.\n(D) The color of the tissue box is white.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_39518.jpg",
+    "box_json": [
+        [
+            1424,
+            740,
+            58,
+            37
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "B",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.5848888888888889,
+                    0.444,
+                    0.6897777777777778,
+                    0.592
+                ],
+                [
+                    0.2071111111111111,
+                    0.5146666666666667,
+                    0.42488888888888887,
+                    0.748
+                ],
+                [
+                    0.9128888888888889,
+                    0.2673333333333333,
+                    1.0,
+                    0.5466666666666666
+                ],
+                [
+                    0.0,
+                    0.7713333333333333,
+                    0.014222222222222223,
+                    0.8206666666666667
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "tissue box with blue color, tissue box with gray color, tissue box with black color, tissue box with white color"
+    }
+}
+{
+    "id": "18",
+    "Text": "What is the color of the watch?\n(A) The color of the watch is white.\n(B) The color of the watch is black.\n(C) The color of the watch is silver.\n(D) The color of the watch is blue.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_16854.jpg",
+    "box_json": [
+        [
+            494,
+            891,
+            14,
+            30
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "C",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.18711111111111112,
+                    0.5553333333333333,
+                    0.26222222222222225,
+                    0.648
+                ],
+                [
+                    0.0,
+                    0.30333333333333334,
+                    0.04488888888888889,
+                    0.548
+                ],
+                [
+                    0.5666666666666667,
+                    0.49066666666666664,
+                    0.6328888888888888,
+                    0.564
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "watch with white color, watch with black color, watch with silver color, watch with blue color"
+    }
+}
+{
+    "id": "20",
+    "Text": "What is the color of the truck?\n(A) The color of the truck is yellow.\n(B) The color of the truck is white.\n(C) The color of the truck is silver.\n(D) The color of the truck is black.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_17108.jpg",
+    "box_json": [
+        [
+            1045,
+            1043,
+            87,
+            116
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.37466666666666665,
+                    0.6666666666666666,
+                    0.5373333333333333,
+                    0.8513333333333334
+                ],
+                [
+                    0.6373333333333333,
+                    0.6846666666666666,
+                    0.7866666666666666,
+                    0.7893333333333333
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "truck with yellow color, truck with white color, truck with silver color, truck with black color"
+    }
+}
+{
+    "id": "13",
+    "Text": "What is the color of the woman's bikini?\n(A) The color of the woman's bikini is black.\n(B) The color of the woman's bikini is red.\n(C) The color of the woman's bikini is white.\n(D) The color of the woman's bikini is yellow.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_11528.jpg",
+    "box_json": [
+        [
+            170,
+            1318,
+            19,
+            32
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.0,
+                    0.0,
+                    0.12933333333333333,
+                    0.07392651615759185
+                ],
+                [
+                    0.074,
+                    0.5431606905710491,
+                    0.16666666666666666,
+                    0.6294820717131474
+                ],
+                [
+                    0.8333333333333334,
+                    0.4072598494909252,
+                    0.9813333333333333,
+                    0.49358123063302345
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": " bikini of woman, color"
+    }
+}
+{
+    "id": "54",
+    "Text": "What is the color of the car?\n(A) The color of the car is silver.\n(B) The color of the car is black.\n(C) The color of the car is blue.\n(D) The color of the car is red.",
+    "Ground truth": "A",
+    "image": "/lab/haoq_lab/cse12313326/MLLM/datasets/vstar_bench/direct_attributes/sa_4020.jpg",
+    "box_json": [
+        [
+            1315,
+            1216,
+            115,
+            68
+        ]
+    ],
+    "category": "direct_attributes",
+    "answer": {
+        "ori": "A",
+        "HiDe_s3_t0.7": "A"
+    },
+    "bounding_box": {
+        "HiDe_s3_t0.7": {
+            "0": [
+                [
+                    0.8513333333333334,
+                    0.5315599639314698,
+                    1.0,
+                    0.6073038773669973
+                ]
+            ]
+        }
+    },
+    "prompt_text": {
+        "HiDe": "car with silver color, car with black color, car with blue color, car with red color"
+    }
+}
